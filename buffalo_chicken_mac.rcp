@@ -1,51 +1,97 @@
-16 oz macaroni, elbow, cooked
-1 cup breadcrumbs, panko, italian
+list
+  16 oz gemelli
+  1/2 cup salt
+  4 sheets graham crackers
+  1 lb bacon
+  2 tbsp white sugar
+  2 tbsp brown sugar
+  5 tbsp butter
+  2 tbsp pepper
+  1 tsp vanilla
+  1 red onion
+  2 stalks celery
+  3 cloves garlic
+  1 rotisserie chicken
+  1 cup buffalo sauce
+  1 qt milk
+  1/2 cup flour
+  1/4 cup mustard powder
+  1 tbsp white pepper
+  1 tbsp nutmeg
+  16 oz cheddar, shredded
+  8 oz gruyere, shredded
+  8 oz cream cheese
+  8 oz mozzarella, cubed
 
-mixin
-  3 tbsp butter
-  1 red onion, chopped
-  2 stalks celery, chopped
-  2 cloves garlic, minced
-  3 cups chicken, rotisserie, shredded
-  1 cup bacon, cooked, chopped
-  1/2 cup buffalo sauce
+breakdown
 
-cheese
-  2 tbsp butter
-  2 tbsp flour
-  2 tbsp dry mustard
-  2 1/2 cups half and half
-  1/2 cup buffalo sauce
-  16 oz cheddar cheese, shredded
-  8 oz pepper jack cheese, shredded
-  2/3 cup sour cream
+  pasta
+    16 oz gemelli, al dente
+    2 gal water
+    1/2 cup salt
 
-large saucepan [mixin]
-  medium heat
-  add butter, melt
-  add onion, celery
-  5 min
-  add garlic
-  2 min
-  add chicken
-  2 min
-  add bacon, buffalo sauce
-  2 min
-  remove from heat
+  topping
+    2 cups graham cracker, crushed
+    1 cup bacon, cooked, chopped
+    2 tbsp white sugar
+    2 tbsp brown sugar
+    2 tbsp butter, melted
+    1 tsp salt
+    1 tsp pepper
+    1 tsp vanilla
 
-large pot [cheese]
-  medium heat
-  add butter, melt
-  add flour, dry mustard
-  stir to virgin roux
-  add half and half, buffalo sauce
-  2 min
-  add cheddar cheese, pepper jack cheese, sour cream
-  2 min
-  add mixin, macaroni
-  2 min
+  mixin
+    3 tbsp butter
+    1 red onion, chopped
+    2 stalks celery, chopped
+    2 cloves garlic, minced
+    3 cups chicken, rotisserie, shredded
+    1 cup bacon, cooked, chopped
+    1/2 cup buffalo sauce
 
-baking dish
-  add contents of large pot
-  top with breadcrumbs
-  bake 350deg 35 min
+  cheese
+    1 qt milk, cold
+    1/2 cup flour
+    1/4 cup mustard powder
+    1 tbsp white pepper
+    1 tbsp nutmeg
+    1 clove garlic, minced
+    1/2 cup buffalo sauce
+    16 oz cheddar, shredded
+    8 oz gruyere, shredded
+    8 oz cream cheese
+    8 oz mozzarella, cubed
+
+directions
+
+  large pot [pasta]
+    water to rapid boil
+    add salt
+    2 min
+    add gemelli, to al dente
+
+  large saucepan [mixin]
+    medium heat
+    add butter, melt
+    add onion, celery, 5 min
+    add garlic, 2 min
+    add chicken, 2 min
+    add bacon, buffalo sauce, 2 min, remove from heat
+
+  large bowl [topping]
+    combine graham cracker, bacon, white sugar, brown sugar, butter, salt, pepper, vanilla
+
+  large pot [cheese]
+    medium heat
+    add milk
+    whisk add flour
+    whisk add mustard powder, white pepper, nutmeg
+    add garlic, buffalo sauce, stir to combine, 2 min, turn off heat
+    add cheddar, gruyere, stir to combine
+    add cream cheese, stir to combine
+    add mozzarella, mix
+
+  gratin baking dish
+    add pasta, mixin, cheese, stir to combine
+    add topping
+    bake 325deg 20min
