@@ -1,4 +1,4 @@
-## Cane's Sauce
+# Cane's Sauce
 
 #### Ingredients
  - 3/4 cups mayonnaise
