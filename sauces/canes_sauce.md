@@ -8,5 +8,5 @@
  - 3/4 tsps garlic powder
 
 #### Method
- 1. Combine all ingredients.
- 2. Let rest in the refrigerator for at least 24 hours.
+ 1. Whisk together all ingredients in small mixing bowl.
+ 2. Refrigerate for at least 24 hours.
