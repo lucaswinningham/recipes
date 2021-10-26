@@ -27,12 +27,12 @@
 
 #### Ingredients
 
+- [ ] 2 oz browned butter, soft
+- [ ] 5 oz toasted sugar
 - [ ] 5 oz unsalted butter, very soft + more for greasing
 - [ ] As needed demerara sugar
-- [ ] 2 oz browned butter, soft
 - [ ] 3/4 tsp kosher salt
-- [ ] 5 oz toasted sugar
-- [ ] 9.5 oz all purpose flour
+- [ ] 9.5 oz all purpose flour, sifted
 - [ ] 2 oz cornstarch
 
 #### Method
