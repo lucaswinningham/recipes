@@ -11,7 +11,7 @@
 - [ ] 3. Once the butter is completely liquid and begins to bubble, reduce the heat to medium-low and continue cooking until the milk solids turn brown. Make sure the stir the butter periodically to make sure you don’t burn the solids.
 - [ ] 4. Transfer the browned butter to a heat safe vessel and allow to cool in the refrigerator for at least 1 hour. The browned butter will keep up to 1 week.
 
-# Chocolate Chips Cookies
+# Chocolate Chip Cookies
 
 #### Ingredients
 
