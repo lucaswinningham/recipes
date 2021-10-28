@@ -17,7 +17,7 @@
 
 - [ ] 1 cup browned butter, cold
 - [ ] 1/2 cup white sugar
-- [ ] 1 1/2 cup dark brown sugar
+- [ ] 1 1/2 cups dark brown sugar
 - [ ] 2 eggs, cold
 - [ ] 11.5 oz all purpose flour, sifted
 - [ ] 1 tbsp kosher salt
