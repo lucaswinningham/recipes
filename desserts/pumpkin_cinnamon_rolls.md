@@ -42,5 +42,5 @@
 - [ ] 6. After the dough has risen, punch it down and turn it out onto a lightly floured surface. Using a rolling pin, roll dough into a 11x15 inch rectangle. Spread the filling mixture onto the dough all the way to the edges.
 - [ ] 7. Gently roll the dough up from the long end to form a log. Using a sharp knife, cut the log into 1 inch rolls (about 12 total). Spray a 9x13 inch baking dish with cooking spray and add the rolls. Cover and allow to rise for 40 minutes.
 - [ ] 8. Bake at 350°F for 20-25 minutes.
-- [ ] 9. Prepare the frosting: n the bowl of a stand mixer fitted with the whisk attachment, combine the softened cream cheese, butter, powdered sugar, maple syrup and salt. Whisk until creamy and smooth.
+- [ ] 9. Prepare the frosting: In the bowl of a stand mixer fitted with the whisk attachment, combine the softened cream cheese, butter, powdered sugar, maple syrup and salt. Whisk until creamy and smooth.
 - [ ] 10. Spread frosting over the warm cinnamon rolls.

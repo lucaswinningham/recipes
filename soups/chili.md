@@ -3,7 +3,7 @@
 #### Ingredients
 
 - [ ] 4 tbsp butter
-- [ ] 1 lg yellow onion, chopped
+- [ ] 1 large yellow onion, chopped
 - [ ] 1 head garlic, minced
 - [ ] 3 stalks celery, chopped
 - [ ] 2 jalapeno peppers, seeded, diced
@@ -28,7 +28,7 @@
 
 #### Method
 
-- [ ] 1. In a 8 quart stockpot over medium heat, add the butter, onion, garlic, celery, and peppers. Cook until fragrant and onions are translucent.
+- [ ] 1. In an 8 quart stockpot over medium heat, add the butter, onion, garlic, celery, and peppers. Cook until fragrant and onions are translucent.
 - [ ] 2. Add the beef and sausage and cook until done.
 - [ ] 3. Add the beans, tomatoes, beef bouillon, chili powder, worcestershire, oregano, cumin, tobasco, basil, salt, pepper, cayenne pepper, paprika, and sugar. Stir to combine.
 - [ ] 4. Simmer for at least 2 hours stirring occasionally to prevent burning at the bottom.
