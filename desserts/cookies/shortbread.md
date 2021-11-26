@@ -38,7 +38,7 @@
 #### Method
 
 - [ ] 1. Brush a 6 x 10 (1/8 sheet) rimmed baking sheet with a light coating of soft butter. Add 1-2 tablespoons of demerara sugar and tilt the pan until it is well coated.
-- [ ] 2. Preheat the oven to 300 °F.
+- [ ] 2. Preheat the oven to 300°F.
 - [ ] 3. Combine butter, browned butter, salt, and toasted sugar in the bowl of a stand mixer. Mix well for 2-3 minutes.
 - [ ] 4. Meanwhile, combine the flour and cornstarch in a bowl. Whisk well to combine.
 - [ ] 5. Add half of the dry ingredients and continue mixing the ingredients for 30 seconds. Then add the remaining dry ingredients and mix until a crumbly dough forms.
