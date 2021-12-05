@@ -40,5 +40,5 @@
 
 #### Method
 
-- [ ] 1. In an 8 quart stockpot over medium heat add the chicken with pan sauce, chicken broth, green chiles, beans, cumin, oregano, chili powder, red pepper flakes, and cream cheese. Stir to combine until cream cheese has melted.
+- [ ] 1. In an 8 quart stockpot over medium heat add the chicken with pan sauce, chicken broth, green chiles, beans, corn, cumin, oregano, chili powder, red pepper flakes, and cream cheese. Stir to combine until cream cheese has melted.
 - [ ] 2. Simmer for at least 1 hour stirring occasionally to prevent burning at the bottom.
