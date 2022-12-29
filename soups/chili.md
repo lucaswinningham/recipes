@@ -14,11 +14,11 @@
 - [ ] 4 (15oz) chili beans
 - [ ] 2 (28oz) diced tomatoes with juice
 - [ ] 4 cubes beef bouillon
-- [ ] 4 tbsps chili powder
+- [ ] 1/4 cup chili powder
 - [ ] 1 tbsp worcestershire
 - [ ] 1 tbsp dried oregano
 - [ ] 1 tbsp ground cumin
-- [ ] 1 tbsp tobasco
+- [ ] 1 tsp tobasco
 - [ ] 1 tsp basil
 - [ ] 1 tsp salt
 - [ ] 1 tsp pepper
