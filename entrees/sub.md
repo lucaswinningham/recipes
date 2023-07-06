@@ -25,7 +25,7 @@
 
 - [ ] 1. In a mixing bowl, mix all ingredients together.
 
-# Subs
+# Italian Sub
 
 #### Ingredients
 
@@ -49,9 +49,7 @@
 - [ ] 4. Remove the baking sheet from the oven. Add tomatoes, shredded lettuce, and other desired toppings to the bottom half. Drizzle with remaining oil and vinegar.
 - [ ] 5. Slice and serve with potato chips. Serves four.
 
-## Variations
-
-### Chicken and Pesto Sub
+# Chicken and Pesto Sub
 
 #### Ingredients
 
@@ -73,7 +71,7 @@
 - [ ] 5. Remove the baking sheet from the oven. Add tomatoes avocado, shredded lettuce, and other desired toppings to the bottom half.
 - [ ] 6. Slice and serve with potato chips. Serves four.
 
-### Tab Sub (Turkey, Avocado, and Bacon)
+# Turkey, Avocado, and Bacon Sub
 
 #### Ingredients
 
