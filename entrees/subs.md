@@ -68,7 +68,7 @@
 - [ ] 2. Preheat the oven to 400°F and on a baking sheet, lay the bread outside down and spread the caesar pesto to the bread surfaces. Season with salt and pepper.
 - [ ] 3. Add layers of mozzarella cheese, bacon, and chicken to bottom half of bread.
 - [ ] 4. Bake for 10-15 minutes.
-- [ ] 5. Remove the baking sheet from the oven. Add tomatoes avocado, shredded lettuce, and other desired toppings to the bottom half.
+- [ ] 5. Remove the baking sheet from the oven. Add tomatoes, avocado, shredded lettuce, and other desired toppings to the bottom half.
 - [ ] 6. Slice and serve with potato chips. Serves four.
 
 # Turkey, Avocado, and Bacon Sub
