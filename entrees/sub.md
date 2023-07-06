@@ -64,7 +64,7 @@
 
 #### Method
 
-` [ ] 1. Cook chicken using any desired method making sure it's fully cooked and has an internal temperature of 165°F.
+- [ ] 1. Cook chicken using any desired method making sure it's fully cooked and has an internal temperature of 165°F.
 - [ ] 2. Preheat the oven to 400°F and on a baking sheet, lay the bread outside down and spread the caesar pesto to the bread surfaces. Season with salt and pepper.
 - [ ] 3. Add layers of mozzarella cheese, bacon, and chicken to bottom half of bread.
 - [ ] 4. Bake for 10-15 minutes.
