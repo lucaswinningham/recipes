@@ -14,21 +14,29 @@
 
 #### Method
 
-- [ ] 1. In a dutch oven over medium-low heat, allow olive oil to come up to temperature. Add onion, garlic, red pepper flakes, oregano and sauté until onions are translucent, about 3-5 minutes.
-- [ ] 2. Stir in tomato paste and cook for 1-2 minutes.
-- [ ] 3. Reduce heat to low and add tomatoes, crushing them in the dutch oven and stirring. Add the basil.
-- [ ] 4. 
+1. In a dutch oven over medium-low heat, allow olive oil to come up to temperature. Add onion, garlic, red pepper flakes, oregano and sauté until onions are translucent, about 3-5 minutes.
+2. Stir in tomato paste and cook for 1-2 minutes.
+3. Reduce heat to low and add tomatoes, crushing them in the dutch oven and stirring. Add the basil.
+4. Simmer for 1-2 hours.
+5. Remove the basil and add butter. Stir until the butter is melted. Salt and pepper to taste.
 
-## Caesar Pesto
+## Meatballs
 
 #### Ingredients
 
-- [ ] 2/3 cup caesar dressing
-- [ ] 1/3 cup pesto
+- [ ] 2 lbs ground beef
+- [ ] 2 eggs, beaten
+- [ ] 1 cup breadcrumbs
+- [ ] 1/2 cup parmesan cheese, grated
+- [ ] 2 tsps salt
+- [ ] 1 tsp pepper
+- [ ] 1 tsp italian seasoning
+- [ ] 1 tsp garlic powder
+- [ ] 1 tsp onion powder
 
 #### Method
 
-- [ ] 1. In a mixing bowl, mix all ingredients together.
+1. In a mixing bowl, fold all ingredients together until homogeneous.
 
 # Italian Sub
 
