@@ -40,69 +40,36 @@
 2. In a mixing bowl, fold all ingredients together until homogeneous. Roll into uniform balls and spread evenly on baking sheet.
 3. Broil for 10-15 minutes until the top sides of the meatballs are browned. Flip the meatballs and broil them on the other side for an additional 2-5 minutes.
 
+## Garlic Bread
+
+#### Ingredients
+
+- [ ] 1 loaf french bread, halved lengthwise (substitute italian bread)
+- [ ] 0.5 lb mozzarella cheese (substitute provolone)
+- [ ] 8 tbsps butter, softened to room temperature
+- [ ] 1 tsp salt
+- [ ] 1 tsp pepper
+- [ ] 1 tsp italian seasoning
+- [ ] 1 tsp garlic powder
+- [ ] 1 tsp onion powder
+
+#### Method
+
+1. Preheat oven to 400°F and in a mixing bowl, combine butter, salt, pepper, italian seasoning, garlic powder, and onion powder until homogeneous.
+2. Spread the butter mixture to both halves of the bread evenly. Add the mozzarella cheese to both halves and bake for 10-15 minutes.
+
 # Spaghetti
 
 #### Ingredients
 
-- [ ] 1 loaf french bread, halved lengthwise
-- [ ] oil and vinegar (above)
-- [ ] 0.5 lb provolone cheese, sliced
-- [ ] 0.5 lb pepperoni
-- [ ] 0.5 lb salami
-- [ ] 0.5 bacon, cooked
-- [ ] 1 yellow onion, thinly sliced
-- [ ] 1 tomato, sliced
-- [ ] 8 oz shredded lettuce
-- [ ] mayo
-- [ ] potato chips
+- [ ] red sauce (above)
+- [ ] meatballs (above)
+- [ ] garlic bread (above)
+- [ ] 16 oz spaghetti
 
 #### Method
 
-- [ ] 1. Preheat the oven to 400°F and on a baking sheet, lay the bread outside down and spread most of the oil and vinegar to the bread surfaces, saving some for drizzling over the shredded lettuce at the end. Spread desired amount of mayo on bread. Season with pepper (skip seasoning with salt as there's plenty of sodium in the pepperoni and salami).
-- [ ] 2. Add layers of provolone cheese, bacon, salami, pepperoni, and onion to bottom half of bread.
-- [ ] 3. Bake for 10-15 minutes.
-- [ ] 4. Remove the baking sheet from the oven. Add tomatoes, shredded lettuce, and other desired toppings to the bottom half. Drizzle with remaining oil and vinegar.
-- [ ] 5. Slice and serve with potato chips. Serves four.
-
-# Chicken and Pesto Sub
-
-#### Ingredients
-
-- [ ] 1 loaf ciabatta bread, halved lengthwise (substitute kaiser or sourdough)
-- [ ] 1 cup caesar pesto (above)
-- [ ] 0.5 lb mozzarella cheese, sliced (substitute with gouda or havarti)
-- [ ] 1 to 2 lbs chicken breast, cooked, sliced
-- [ ] 0.5 bacon, cooked
-- [ ] 1 avocado, sliced
-- [ ] 1 tomato, sliced
-- [ ] 8 oz shredded lettuce
-
-#### Method
-
-- [ ] 1. Cook chicken using any desired method making sure it's fully cooked and has an internal temperature of 165°F.
-- [ ] 2. Preheat the oven to 400°F and on a baking sheet, lay the bread outside down and spread the caesar pesto to the bread surfaces. Season with salt and pepper.
-- [ ] 3. Add layers of mozzarella cheese, bacon, and chicken to bottom half of bread.
-- [ ] 4. Bake for 10-15 minutes.
-- [ ] 5. Remove the baking sheet from the oven. Add tomatoes, avocado, shredded lettuce, and other desired toppings to the bottom half.
-- [ ] 6. Slice and serve with potato chips. Serves four.
-
-# Turkey, Avocado, and Bacon Sub
-
-#### Ingredients
-
-- [ ] 1 loaf ciabatta bread, halved lengthwise (substitute kaiser or sourdough)
-- [ ] 1 cup caesar pesto (above)
-- [ ] 0.5 lb mozzarella cheese, sliced (substitute with gouda or havarti)
-- [ ] 1 to 2 lbs turkey breast, sliced
-- [ ] 0.5 bacon, cooked
-- [ ] 1 avocado, sliced
-- [ ] 1 tomato, sliced
-- [ ] 8 oz shredded lettuce
-
-#### Method
-
-1. Preheat the oven to 400°F and on a baking sheet, lay the bread outside down and spread the caesar pesto to the bread surfaces. Season with salt and pepper.
-2. Add layers of mozzarella cheese, bacon, and turkey to bottom half of bread.
-3. Bake for 10-15 minutes.
-4. Remove the baking sheet from the oven. Add tomatoes, avocado, shredded lettuce, and other desired toppings to the bottom half.
-5. Slice and serve with potato chips. Serves four.
+1. Start by making the red sauce then start making the meatballs.
+2. Once the meatballs are boiled, add them to the red sauce to let them simmer with it for the remaining simmering time.
+3. With about 30 minutes of simmering time remaining, start making the garlic bread and make the spaghetti according to the packaging instructions.
+4. Serve the spaghetti, meatballs, garlic bread, and spaghetti together. Serves eight.
