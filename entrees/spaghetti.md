@@ -71,5 +71,5 @@
 
 1. Start by making the red sauce then start making the meatballs.
 2. Once the meatballs are broiled, add them to the red sauce to let them simmer with it for the remaining simmering time.
-3. With about 30 minutes of simmering time remaining, start making the garlic bread and make the spaghetti according to the packaging instructions.
+3. With about 30 minutes of simmering time remaining, start making the garlic bread and start making the spaghetti according to the packaging instructions.
 4. Serve the spaghetti, meatballs, garlic bread, and spaghetti together. Serves eight.
