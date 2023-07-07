@@ -36,9 +36,11 @@
 
 #### Method
 
-1. In a mixing bowl, fold all ingredients together until homogeneous.
+1. Preheat oven on broil and move rack to middle position. Lightly brush a baking sheet with olive oil.
+2. In a mixing bowl, fold all ingredients together until homogeneous. Roll into uniform balls and spread evenly on baking sheet.
+3. Broil for 10-15 minutes until browned. Flip and broil the other side for an additional 2-5 minutes.
 
-# Italian Sub
+# Spaghetti
 
 #### Ingredients
 
