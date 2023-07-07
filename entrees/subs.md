@@ -12,7 +12,7 @@
 
 #### Method
 
-- [ ] 1. In a mixing bowl, whisk all ingredients together.
+1. In a mixing bowl, whisk all ingredients together.
 
 ## Caesar Pesto
 
@@ -23,7 +23,7 @@
 
 #### Method
 
-- [ ] 1. In a mixing bowl, mix all ingredients together.
+1. In a mixing bowl, mix all ingredients together.
 
 # Italian Sub
 
@@ -43,11 +43,11 @@
 
 #### Method
 
-- [ ] 1. Preheat the oven to 400°F and on a baking sheet, lay the bread outside down and spread most of the oil and vinegar to the bread surfaces, saving some for drizzling over the shredded lettuce at the end. Spread desired amount of mayo on bread. Season with pepper (skip seasoning with salt as there's plenty of sodium in the pepperoni and salami).
-- [ ] 2. Add layers of provolone cheese, bacon, salami, pepperoni, and onion to bottom half of bread.
-- [ ] 3. Bake for 10-15 minutes.
-- [ ] 4. Remove the baking sheet from the oven. Add tomatoes, shredded lettuce, and other desired toppings to the bottom half. Drizzle with remaining oil and vinegar.
-- [ ] 5. Slice and serve with potato chips. Serves four.
+1. Preheat the oven to 400°F and on a baking sheet, lay the bread outside down and spread most of the oil and vinegar to the bread surfaces, saving some for drizzling over the shredded lettuce at the end. Spread desired amount of mayo on bread. Season with pepper (skip seasoning with salt as there's plenty of sodium in the pepperoni and salami).
+2. Add layers of provolone cheese, bacon, salami, pepperoni, and onion to bottom half of bread.
+3. Bake for 10-15 minutes.
+4. Remove the baking sheet from the oven. Add tomatoes, shredded lettuce, and other desired toppings to the bottom half. Drizzle with remaining oil and vinegar.
+5. Slice and serve with potato chips. Serves four.
 
 # Chicken and Pesto Sub
 
@@ -64,12 +64,12 @@
 
 #### Method
 
-- [ ] 1. Cook chicken using any desired method making sure it's fully cooked and has an internal temperature of 165°F.
-- [ ] 2. Preheat the oven to 400°F and on a baking sheet, lay the bread outside down and spread the caesar pesto to the bread surfaces. Season with salt and pepper.
-- [ ] 3. Add layers of mozzarella cheese, bacon, and chicken to bottom half of bread.
-- [ ] 4. Bake for 10-15 minutes.
-- [ ] 5. Remove the baking sheet from the oven. Add tomatoes, avocado, shredded lettuce, and other desired toppings to the bottom half.
-- [ ] 6. Slice and serve with potato chips. Serves four.
+1. Cook chicken using any desired method making sure it's fully cooked and has an internal temperature of 165°F.
+2. Preheat the oven to 400°F and on a baking sheet, lay the bread outside down and spread the caesar pesto to the bread surfaces. Season with salt and pepper.
+3. Add layers of mozzarella cheese, bacon, and chicken to bottom half of bread.
+4. Bake for 10-15 minutes.
+5. Remove the baking sheet from the oven. Add tomatoes, avocado, shredded lettuce, and other desired toppings to the bottom half.
+6. Slice and serve with potato chips. Serves four.
 
 # Turkey, Avocado, and Bacon Sub
 
@@ -86,8 +86,8 @@
 
 #### Method
 
-- [ ] 1. Preheat the oven to 400°F and on a baking sheet, lay the bread outside down and spread the caesar pesto to the bread surfaces. Season with salt and pepper.
-- [ ] 2. Add layers of mozzarella cheese, bacon, and turkey to bottom half of bread.
-- [ ] 3. Bake for 10-15 minutes.
-- [ ] 4. Remove the baking sheet from the oven. Add tomatoes, avocado, shredded lettuce, and other desired toppings to the bottom half.
-- [ ] 5. Slice and serve with potato chips. Serves four.
+1. Preheat the oven to 400°F and on a baking sheet, lay the bread outside down and spread the caesar pesto to the bread surfaces. Season with salt and pepper.
+2. Add layers of mozzarella cheese, bacon, and turkey to bottom half of bread.
+3. Bake for 10-15 minutes.
+4. Remove the baking sheet from the oven. Add tomatoes, avocado, shredded lettuce, and other desired toppings to the bottom half.
+5. Slice and serve with potato chips. Serves four.
