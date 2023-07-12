@@ -20,4 +20,4 @@
 5. In a mixing bowl, whisk aggs and the remaining 1 cup of milk along with salt and pepper for seasoning until homogeneous and pour into the baking dish.
 6. Spread the gravy as the top layer in the baking dish.
 7. Bake for 25-35 minutes.
-8. Slice into squares and serve. Serves six to eight.
+8. Slice into squares and serve with fresh fruit. Serves six to eight.
