@@ -47,7 +47,7 @@
 2. Add layers of provolone cheese, bacon, salami, pepperoni, and onion to bottom half of bread.
 3. Bake for 10-15 minutes.
 4. Remove the baking sheet from the oven. Add tomatoes, shredded lettuce, and other desired toppings to the bottom half. Drizzle with remaining oil and vinegar.
-5. Slice and serve with potato chips. Serves four.
+5. Slice and serve with potato chips. Serves four to six.
 
 # Chicken and Pesto Sub
 
@@ -69,7 +69,7 @@
 3. Add layers of mozzarella cheese, bacon, and chicken to bottom half of bread.
 4. Bake for 10-15 minutes.
 5. Remove the baking sheet from the oven. Add tomatoes, avocado, shredded lettuce, and other desired toppings to the bottom half.
-6. Slice and serve with potato chips. Serves four.
+6. Slice and serve with potato chips. Serves four to six.
 
 # Turkey, Avocado, and Bacon Sub
 
