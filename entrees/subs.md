@@ -90,4 +90,4 @@
 2. Add layers of mozzarella cheese, bacon, and turkey to bottom half of bread.
 3. Bake for 10-15 minutes.
 4. Remove the baking sheet from the oven. Add tomatoes, avocado, shredded lettuce, and other desired toppings to the bottom half.
-5. Slice and serve with potato chips. Serves four.
+5. Slice and serve with potato chips. Serves four to six.
