@@ -34,7 +34,7 @@
 - [ ] 0.5 lb provolone cheese, sliced
 - [ ] 0.5 lb pepperoni
 - [ ] 0.5 lb salami
-- [ ] 0.5 bacon, cooked
+- [ ] 0.5 lb bacon, cooked
 - [ ] 1 yellow onion, thinly sliced
 - [ ] 1 tomato, sliced
 - [ ] 8 oz shredded lettuce
@@ -57,7 +57,7 @@
 - [ ] 1 cup caesar pesto (above)
 - [ ] 0.5 lb mozzarella cheese, sliced (substitute with gouda or havarti)
 - [ ] 1 to 2 lbs chicken breast, cooked, sliced
-- [ ] 0.5 bacon, cooked
+- [ ] 0.5 lb bacon, cooked
 - [ ] 1 avocado, sliced
 - [ ] 1 tomato, sliced
 - [ ] 8 oz shredded lettuce
@@ -79,7 +79,7 @@
 - [ ] 1 cup caesar pesto (above)
 - [ ] 0.5 lb mozzarella cheese, sliced (substitute with gouda or havarti)
 - [ ] 1 to 2 lbs turkey breast, sliced
-- [ ] 0.5 bacon, cooked
+- [ ] 0.5 lb bacon, cooked
 - [ ] 1 avocado, sliced
 - [ ] 1 tomato, sliced
 - [ ] 8 oz shredded lettuce
