@@ -14,17 +14,6 @@
 
 1. In a mixing bowl, whisk all ingredients together.
 
-## Caesar Pesto
-
-#### Ingredients
-
-- [ ] 2/3 cup caesar dressing
-- [ ] 1/3 cup pesto
-
-#### Method
-
-1. In a mixing bowl, mix all ingredients together.
-
 # Italian Sub
 
 #### Ingredients
@@ -46,6 +35,17 @@
 3. Bake for 10-15 minutes.
 4. Remove the baking sheet from the oven. Add tomatoes, shredded lettuce, and other desired toppings to the bottom half. Drizzle with remaining oil and vinegar. On the top half, spread desired amount of mayo and season with pepper (skip seasoning with salt as there's plenty of sodium in the pepperoni and salami). Combine the top and bottom halves.
 5. Slice and serve with potato chips. Serves four to six.
+
+## Caesar Pesto
+
+#### Ingredients
+
+- [ ] 2/3 cup caesar dressing
+- [ ] 1/3 cup pesto
+
+#### Method
+
+1. In a mixing bowl, mix all ingredients together.
 
 # Chicken and Pesto Sub
 
