@@ -90,7 +90,7 @@ Search for recipes with the following tags:
   </tr>
   <tr>
     <td align="center" width="33%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+side"&type=code" >🍟 Sides</a>
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+side%22&type=code" >🍟 Sides</a>
     </td>
     <td align="center" width="33%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+snack"&type=code">🍿 Snacks</a>
