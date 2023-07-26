@@ -15,9 +15,7 @@ Search for recipes with the following tags:
 <table>
   <tr>
     <th align="center">
-      <img width="441" height="1" />
-
-      <p> 
+      <p>
         <small>
           EXAMPLE TEXT 1
         </small>
@@ -25,15 +23,12 @@ Search for recipes with the following tags:
     </th>
 
     <th align="center">
-      <img width="441" height="1" />
-
       <p> 
         <small>
           EXAMPLE TEXT 2
         </small>
       </p>
     </th>
-
   </tr>
 
   <tr>
