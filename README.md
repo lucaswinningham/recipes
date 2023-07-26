@@ -9,10 +9,10 @@ Search for recipes with the following tags:
   </div>
 </div>
 
-<div style="display:flex;justify-content:space-between;">
-  <div style="display:flex;">hello my baby</div>
-  <div style="display:flex;">hello my honey</div>
-  <div style="display:flex;">hello my ragtime gal</div>
+<div style="display: flex; justify-content: space-between;">
+  <div>hello my baby</div>
+  <div>hello my honey</div>
+  <div>hello my ragtime gal</div>
 </div>
 
 <pre>
