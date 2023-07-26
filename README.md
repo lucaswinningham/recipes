@@ -255,7 +255,7 @@ Types:
 
 <table>
   <tr>
-    <th align="center" width="10000px" colspan="3">
+    <th align="center" width="10000px" colspan="5">
       <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+dessert%22&type=code" >🍮 Desserts</a>
     </th>
   </tr>
@@ -327,7 +327,7 @@ Proteins:
 
 <table>
   <tr>
-    <th align="center" width="10000px" colspan="3">
+    <th align="center" width="10000px" colspan="2">
       <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+holiday%22&type=code" >🎅 Holidays</a>
     </th>
   </tr>
