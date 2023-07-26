@@ -32,8 +32,8 @@ Search for recipes with the following tags:
   </tr>
 </table>
 
-<table>
-  <tr width="10000px">
+<table width="10000px">
+  <tr>
     <td align="center" width="25%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+breakfast"&type=code" >🍳 Breakfast</a>
     </td>
