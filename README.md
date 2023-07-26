@@ -19,7 +19,7 @@ Search for recipes with the following tags:
 
       <p> 
         <small>
-          EXAMPLE TEXT
+          EXAMPLE TEXT 1
         </small>
       </p>
     </th>
@@ -29,7 +29,7 @@ Search for recipes with the following tags:
 
       <p> 
         <small>
-          EXAMPLE TEXT
+          EXAMPLE TEXT 2
         </small>
       </p>
     </th>
@@ -37,30 +37,12 @@ Search for recipes with the following tags:
   </tr>
 
   <tr>
-    <td>
-    ```jsonc
-    {
-      "foo": [
-        {
-          "bar": "hello world"
-        }
-      ]
-    }
-    ```
-      
+    <td align="center">
+      middle row 1
     </td>
 
-    <td>
-    ```jsonc
-    {
-      "foo": [
-        {
-          "bar": "hello world"
-        }
-      ]
-    }
-    ```
-      
+    <td align="center">
+      middle row 2
     </td>
   </tr>
 
