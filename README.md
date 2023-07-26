@@ -33,17 +33,17 @@ Search for recipes with the following tags:
 </table>
 
 <table>
-  <tr width="10000px">
-    <td align="center" width="25%">
+  <tr>
+    <td align="center" width="2500px">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+breakfast"&type=code" >🍳 Breakfast</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="2500px">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+brunch"&type=code">🥯 Brunch</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="2500px">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+lunch"&type=code">🍲 Lunch</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="2500px">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+dinner"&type=code">🫕 Dinner</a>
     </td>
   </tr>
