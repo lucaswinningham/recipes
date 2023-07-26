@@ -150,10 +150,10 @@ Search for recipes with the following tags:
           </th>
         </tr>
         <tr>
-          <td align="center">
+          <td align="center" width="50%">
            <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+burger%22&type=code">🍔 Burgers</a>
           </td>
-          <td align="center">
+          <td align="center" width="50%">
            <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+burger%22&type=code">🍔 Burgers</a>
           </td>
         </tr>
