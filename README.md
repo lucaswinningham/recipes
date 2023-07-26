@@ -34,10 +34,6 @@ Search for recipes with the following tags:
 
 <table>
   <tr>
-    <th align="center" width="10000px" colspan="4">Time</th>
-  </tr>
-
-  <tr>
     <td align="center" width="25%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+breakfast"&type=code" >🍳 Breakfast</a>
     </td>
@@ -65,7 +61,7 @@ Search for recipes with the following tags:
     <th align="center" width="10000px" colspan="3">Starters</th>
   </tr>
 
-  <tr width="500px">
+  <tr>
     <td align="center" width="33%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+appetizer"&type=code" >🥟 Appetizers</a>
     </td>
@@ -89,7 +85,7 @@ Search for recipes with the following tags:
     <th align="center" width="10000px" colspan="3">Misc</th>
   </tr>
 
-  <tr width="500px">
+  <tr>
     <td align="center" width="33%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+side"&type=code" >🍟 Sides</a>
     </td>
