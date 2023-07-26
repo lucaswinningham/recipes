@@ -3,7 +3,6 @@
 Search for recipes with the following tags:
 
 [Breakfast](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+breakfast"&type=code)
-
 [Brunch](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+brunch"&type=code)
 
 [Lunch](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+lunch"&type=code)
