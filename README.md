@@ -105,37 +105,7 @@ Search for recipes with the following tags:
 [🍫 Treats](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+treat"&type=code)  
 -->
 
-<table>
-  <tr>
-    <td align="center" width="5000px">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+pizza"&type=code">🍕 Pizzas</a>
-    </td>
 
-    <td align="center" width="5000px">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+rice"&type=code">🍚 Rice</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="5000px">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+noodles"&type=code">🍜 Noodles</a>
-    </td>
-
-    <td align="center" width="5000px">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+pasta"&type=code">🍝 Pastas</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="5000px">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+sausage"&type=code">🌭 Sausages</a>
-    </td>
-
-    <td align="center" width="5000px">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+stir+fry"&type=code">🥢 Stir Fry</a>
-    </td>
-  </tr>
-</table>
 
 <!--
 Types:  
