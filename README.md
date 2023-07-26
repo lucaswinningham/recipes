@@ -321,15 +321,15 @@ Types:
     <td align="center" width="50%">
       <table>
         <tr>
-          <th align="center" width="5000px" colspan="2">
+          <th align="center" colspan="2">
             <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+meat%22&type=code">🥩 Meats</a>
           </th>
         </tr>
         <tr>
-          <td align="center" width="50%">
+          <td align="center" width="100px">
             <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+beef%22&type=code">🐄 Beef</a>
           </td>
-          <td align="center" width="50%">
+          <td align="center" width="100px">
             <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+pork%22&type=code">🐖 Pork</a>
           </td>
         </tr>
