@@ -58,17 +58,13 @@ Search for recipes with the following tags:
 
 <table>
   <tr>
-    <th align="center" width="10000px" colspan="3">Starters</th>
-  </tr>
-
-  <tr>
-    <td align="center" width="33%">
+    <td align="center" width="3300px">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+appetizer"&type=code" >🥟 Appetizers</a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="3300px">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+soup"&type=code">🍲 Soups</a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="3300px">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+salad"&type=code">🥗 Salads</a>
     </td>
   </tr>
@@ -82,17 +78,13 @@ Search for recipes with the following tags:
 
 <table>
   <tr>
-    <th align="center" width="10000px" colspan="3">Misc</th>
-  </tr>
-
-  <tr>
-    <td align="center" width="33%">
+    <td align="center" width="3300px">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+side"&type=code" >🍟 Sides</a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="3300px">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+snack"&type=code">🍿 Snacks</a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="3300px">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+treat"&type=code">🍫 Treats</a>
     </td>
   </tr>
