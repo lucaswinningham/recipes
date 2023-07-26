@@ -14,19 +14,19 @@ Search for recipes with the following tags:
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th align="center">Company</th>
+    <th align="center">Contact</th>
+    <th align="center">Country</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td align="center">Alfreds Futterkiste</td>
+    <td align="center">Maria Anders</td>
+    <td align="center">Germany</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td align="center">Centro comercial Moctezuma</td>
+    <td align="center">Francisco Chang</td>
+    <td align="center">Mexico</td>
   </tr>
 </table>
 
