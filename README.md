@@ -30,7 +30,7 @@ Search for recipes with the following tags:
   </tr>
 </table>
 
-<table>
+<table style="width:'100%'">
   <tr>
     <th align="center">
       <p>
