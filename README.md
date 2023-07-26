@@ -313,6 +313,71 @@ Types:
 &nbsp;&nbsp;[🥤 Shakes](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+shake%22&type=code)  
 -->
 
+<table>
+  <tr>
+    <th align="center" width="10000px" colspan="2">Types</th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <table>
+        <tr>
+          <th align="center" colspan="2">
+            <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+meat%22&type=code">🥩 Meats</a>
+          </th>
+        </tr>
+        <tr>
+          <td align="center" width="50%">
+           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+beef%22&type=code">🐄 Beef</a>
+          </td>
+          <td align="center" width="50%">
+           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+pork%22&type=code">🐖 Pork</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center" width="50%">
+      <table>
+        <tr>
+          <th align="center" colspan="2">
+            <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+poultry%22&type=code">🍗 Poultry</a>
+          </th>
+        </tr>
+        <tr>
+          <td align="center" width="50%">
+           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+chicken%22&type=code">🐓 Chicken</a>
+          </td>
+          <td align="center" width="50%">
+           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+turkey%22&type=code">🦃 Turkey</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <table>
+        <tr>
+          <th align="center" colspan="2">
+            <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+seafood%22&type=code">🦞 Seafood</a>
+          </th>
+        </tr>
+        <tr>
+          <td align="center" width="50%">
+           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+shrimp%22&type=code">🍤 Shrimp</a>
+          </td>
+          <td align="center" width="50%">
+           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+fish%22&type=code">🐟 Fish</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center" width="50%">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+vegetarian%22&type=code">🥦 Vegetarian</a>
+    </td>
+  </tr>
+</table>
+
+<!--
 Proteins:  
 &nbsp;&nbsp;[🥦 Vegetarian](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+vegetarian%22&type=code)  
 &nbsp;&nbsp;[🍗 Poultry](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+poultry%22&type=code)  
@@ -324,6 +389,7 @@ Proteins:
 &nbsp;&nbsp;[🦞 Seafood](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+seafood%22&type=code)  
 &nbsp;&nbsp;&nbsp;&nbsp;[🍤 Shrimp](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+shrimp%22&type=code)  
 &nbsp;&nbsp;&nbsp;&nbsp;[🐟 Fish](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+fish%22&type=code)  
+-->
 
 <table>
   <tr>
