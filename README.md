@@ -139,11 +139,14 @@ Search for recipes with the following tags:
 
 <table>
   <tr>
-    <th align="center" width="10000px" colspan="4">Types</th>
+    <th align="center" width="10000px" colspan="2">Types</th>
   </tr>
   <tr>
     <td align="center" width="50%">
       <table border="10" bordercolor = "#3CAB16">
+        <tr>
+          <th align="center" width="10000px" colspan="4">🕐 Times</th>
+        </tr>
         <tr>
           <td></td>
         </tr>
