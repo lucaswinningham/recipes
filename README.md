@@ -108,16 +108,6 @@ Search for recipes with the following tags:
 <table>
   <tr>
     <td align="center" width="5000px">
-     foo
-    </td>
-
-    <td align="center" width="5000px">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+burger"&type=code">🍔 Burgers</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="5000px">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+pizza"&type=code">🍕 Pizzas</a>
     </td>
 
