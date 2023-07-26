@@ -34,7 +34,7 @@ Search for recipes with the following tags:
 
 <table>
   <tr>
-    <th align="center" width="500px" colspan="4">🕐 Time</th>
+    <th align="center" width="2000px" colspan="4">🕐 Time</th>
   </tr>
 
   <tr width="500px">
