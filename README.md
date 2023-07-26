@@ -320,8 +320,8 @@ Types:
   <tr>
     <td align="center" width="50%">
       <table>
-        <tr width="100%">
-          <th align="center" colspan="2">
+        <tr>
+          <th align="center" width="100%" colspan="2">
             <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+meat%22&type=code">🥩 Meats</a>
           </th>
         </tr>
