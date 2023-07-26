@@ -101,7 +101,21 @@ Search for recipes with the following tags:
 <table>
   <tr>
     <td align="center" width="5000px">
-     FOO
+     <table>
+       <tr>
+         <th align="center" width="5000px">
+           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+sandwich"&type=code" >🥪 Sandwiches</a>
+         </th>
+       </tr>
+       <tr>
+         <td align="center" width="2500px">
+           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+wrap"&type=code" >🌯 Wraps</a>
+         </td>
+         <td align="center" width="2500px">
+           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+roll"&type=code" >Rolls</a>
+         </td>
+       </tr>
+     </table>
     </td>
     <td align="center" width="5000px">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+burger"&type=code">🍔 Burgers</a>
@@ -127,7 +141,6 @@ Search for recipes with the following tags:
     <td align="center" width="5000px">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+sausage"&type=code">🌭 Sausages</a>
     </td>
-
     <td align="center" width="5000px">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+stir+fry"&type=code">🥢 Stir Fry</a>
     </td>
@@ -138,7 +151,7 @@ Search for recipes with the following tags:
 Types:  
 &nbsp;&nbsp;[🥪 Sandwiches](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+sandwich"&type=code):  
 &nbsp;&nbsp;&nbsp;&nbsp;[🌯 Wraps](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+wrap"&type=code)  
-<1-- &nbsp;&nbsp;&nbsp;&nbsp;[Rolls](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+roll"&type=code)  -->
+&nbsp;&nbsp;&nbsp;&nbsp;[Rolls](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+roll"&type=code)
 &nbsp;&nbsp;[🍔 Burgers](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+burger"&type=code)  
 &nbsp;&nbsp;[🍕 Pizzas](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+pizza"&type=code)  
 &nbsp;&nbsp;[🍚 Rice](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+rice"&type=code)  
