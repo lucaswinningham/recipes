@@ -38,16 +38,16 @@ Search for recipes with the following tags:
   </tr>
 
   <tr width="500px">
-    <td align="center">
+    <td align="center" width="25%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+breakfast"&type=code" >🍳 Breakfast</a>
     </td>
-    <td align="center">
+    <td align="center" width="25%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+brunch"&type=code">🥯 Brunch</a>
     </td>
-    <td align="center">
+    <td align="center" width="25%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+lunch"&type=code">🍲 Lunch</a>
     </td>
-    <td align="center">
+    <td align="center" width="25%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+dinner"&type=code">🫕 Dinner</a>
     </td>
   </tr>
@@ -66,13 +66,13 @@ Search for recipes with the following tags:
   </tr>
 
   <tr width="500px">
-    <td align="center">
+    <td align="center" width="33%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+appetizer"&type=code" >🥟 Appetizers</a>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+soup"&type=code">🍲 Soups</a>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+salad"&type=code">🥗 Salads</a>
     </td>
   </tr>
@@ -90,13 +90,13 @@ Search for recipes with the following tags:
   </tr>
 
   <tr width="500px">
-    <td align="center">
+    <td align="center" width="33%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+side"&type=code" >🍟 Sides</a>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+snack"&type=code">🍿 Snacks</a>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+treat"&type=code">🍫 Treats</a>
     </td>
   </tr>
