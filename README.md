@@ -4,7 +4,7 @@ Search for recipes with the following tags:
 
 <pre>
  <code>
-  <a href="google.com">Test copy that's hopefully monospaced! And now that's also a link?!</a>
+  <a href="https://google.com">Test copy that's hopefully monospaced! And now that's also a link?!</a>
  </code>
 </pre>
 
