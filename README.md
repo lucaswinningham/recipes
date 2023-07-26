@@ -36,7 +36,7 @@ Search for recipes with the following tags:
 
 <table>
   <tr>
-    <th align="center" width="10000px" colspan="4">🕐 Time</th>
+    <th align="center" width="10000px" colspan="4">🕐 Times</th>
   </tr>
   <tr>
     <td align="center" width="25%">
@@ -63,6 +63,9 @@ Search for recipes with the following tags:
 
 <table>
   <tr>
+    <th align="center" width="10000px" colspan="3">Accompaniments</th>
+  </tr>
+  <tr>
     <td align="center" width="33%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+appetizer"&type=code" >🥟 Appetizers</a>
     </td>
@@ -83,6 +86,9 @@ Search for recipes with the following tags:
 
 <table>
   <tr>
+    <th align="center" width="10000px" colspan="3">Misc</th>
+  </tr>
+  <tr>
     <td align="center" width="33%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+side"&type=code" >🍟 Sides</a>
     </td>
@@ -102,6 +108,9 @@ Search for recipes with the following tags:
 -->
 
 <table>
+  <tr>
+    <th align="center" width="10000px" colspan="4">Types</th>
+  </tr>
   <tr>
     <td align="center" width="50%">
      FOO
