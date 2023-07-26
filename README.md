@@ -2,19 +2,12 @@
 
 Search for recipes with the following tags:
 
-<style>
-.category {
-  display: flex;
-  justify-content: space-between;
-}
-</style>
-
 <pre>
  <code>
   <a href="https://google.com">Test copy that's hopefully monospaced! And now that's also a link?!</a>
   <a href="https://google.com">And another</a>
   &nbsp;&nbsp;<a href="https://google.com">And another indented</a>
-  <div class="category">
+  <div style="display:flex;justify-content:space-between;">
     <div>hello my baby</div>
     <div>hello my honey</div>
     <div>hello my ragtime gal</div>
