@@ -315,7 +315,7 @@ Types:
 
 <table>
   <tr>
-    <th align="center" width="10000px" colspan="2">Types</th>
+    <th align="center" width="10000px" colspan="2">Protein</th>
   </tr>
   <tr>
     <td align="center" width="50%">
