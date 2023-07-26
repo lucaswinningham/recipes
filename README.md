@@ -14,59 +14,19 @@ Search for recipes with the following tags:
 
 <table>
   <tr>
-    <th align="center">Company</th>
-    <th align="center">Contact</th>
-    <th align="center">Country</th>
+    <th align="center" width="500px">Company</th>
+    <th align="center" width="500px">Contact</th>
+    <th align="center" width="500px">Country</th>
   </tr>
-  <tr>
+  <tr width="500px">
     <td align="center">Alfreds Futterkiste</td>
     <td align="center">Maria Anders</td>
     <td align="center">Germany</td>
   </tr>
-  <tr>
+  <tr width="500px">
     <td align="center">Centro comercial Moctezuma</td>
     <td align="center">Francisco Chang</td>
     <td align="center">Mexico</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th align="center">
-      <p>
-        <small>
-          EXAMPLE TEXT 1
-        </small>
-      </p>
-    </th>
-
-    <th align="center">
-      <p> 
-        <small>
-          EXAMPLE TEXT 2
-        </small>
-      </p>
-    </th>
-  </tr>
-
-  <tr>
-    <td align="center">
-      middle row 1
-    </td>
-
-    <td align="center">
-      middle row 2
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      Column 1
-    </td>
-
-    <td align="center">
-      Column 2
-    </td>
   </tr>
 </table>
 
