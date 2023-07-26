@@ -15,7 +15,8 @@ Search for recipes with the following tags:
 <table>
   <tr>
     <th align="center">
-      <img width="441" height="1">
+      <img width="441" height="1" />
+
       <p> 
         <small>
           EXAMPLE TEXT
@@ -24,7 +25,7 @@ Search for recipes with the following tags:
     </th>
 
     <th align="center">
-      <img width="441" height="1">
+      <img width="441" height="1" />
 
       <p> 
         <small>
@@ -37,8 +38,7 @@ Search for recipes with the following tags:
 
   <tr>
     <td>
-    <!-- REMOVE THE BACKSLASHES -->
-    \```jsonc
+    ```jsonc
     {
       "foo": [
         {
@@ -51,8 +51,7 @@ Search for recipes with the following tags:
     </td>
 
     <td>
-    <!-- REMOVE THE BACKSLASHES -->
-    \```jsonc
+    ```jsonc
     {
       "foo": [
         {
