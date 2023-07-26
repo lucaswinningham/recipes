@@ -40,16 +40,16 @@ Search for recipes with the following tags:
   </tr>
   <tr>
     <td align="center" width="25%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+breakfast%22&type=code" >🍳 Breakfast</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+breakfast%22&type=code" >🍳 Breakfast</a>
     </td>
     <td align="center" width="25%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+brunch%22&type=code">🥯 Brunch</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+brunch%22&type=code">🥯 Brunch</a>
     </td>
     <td align="center" width="25%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+lunch%22&type=code">🍲 Lunch</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+lunch%22&type=code">🍲 Lunch</a>
     </td>
     <td align="center" width="25%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+dinner%22&type=code">🫕 Dinner</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+dinner%22&type=code">🫕 Dinner</a>
     </td>
   </tr>
 </table>
@@ -67,13 +67,13 @@ Search for recipes with the following tags:
   </tr>
   <tr>
     <td align="center" width="33%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+appetizer%22&type=code" >🥟 Appetizers</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+appetizer%22&type=code" >🥟 Appetizers</a>
     </td>
     <td align="center" width="33%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+soup%22&type=code">🍲 Soups</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+soup%22&type=code">🍲 Soups</a>
     </td>
     <td align="center" width="33%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+salad%22&type=code">🥗 Salads</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+salad%22&type=code">🥗 Salads</a>
     </td>
   </tr>
 </table>
@@ -90,13 +90,13 @@ Search for recipes with the following tags:
   </tr>
   <tr>
     <td align="center" width="33%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+side%22&type=code" >🍟 Sides</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+side%22&type=code" >🍟 Sides</a>
     </td>
     <td align="center" width="33%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+snack%22&type=code">🍿 Snacks</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+snack%22&type=code">🍿 Snacks</a>
     </td>
     <td align="center" width="33%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+treat%22&type=code">🍫 Treats</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+treat%22&type=code">🍫 Treats</a>
     </td>
   </tr>
 </table>
@@ -145,48 +145,34 @@ Search for recipes with the following tags:
   </tr>
   <tr>
     <td align="center" width="50%">
-      <table>
-        <tr>
-          <th align="center" colspan="2">
-            <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+sandwich%22&type=code">🥪 Sandwiches</a>
-          </th>
-        </tr>
-        <tr>
-          <td align="center" width="50%">
-           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+wrap%22&type=code">🌯 Wraps</a>
-          </td>
-          <td align="center" width="50%">
-           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+roll%22&type=code">Rolls</a>
-          </td>
-        </tr>
-      </table>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+sandwich%22&type=code">🥪 Sandwiches</a>
     </td>
     <td align="center" width="50%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+burger%22&type=code">🍔 Burgers</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+burger%22&type=code">🍔 Burgers</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+pizza%22&type=code">🍕 Pizzas</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+pizza%22&type=code">🍕 Pizzas</a>
     </td>
     <td align="center" width="50%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+rice%22&type=code">🍚 Rice</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+noodles%22&type=code">🍜 Noodles</a>
-    </td>
-    <td align="center" width="50%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+pasta%22&type=code">🍝 Pastas</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+rice%22&type=code">🍚 Rice</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+sausage%22&type=code">🌭 Sausages</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+noodles%22&type=code">🍜 Noodles</a>
     </td>
     <td align="center" width="50%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+stir+fry%22&type=code">🥢 Stir Fry</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+pasta%22&type=code">🍝 Pastas</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+sausage%22&type=code">🌭 Sausages</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+stir+fry%22&type=code">🥢 Stir Fry</a>
     </td>
   </tr>
 </table>
@@ -213,10 +199,10 @@ Types:
   </tr>
   <tr>
     <td align="center" width="50%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+condiment%22&type=code" >Condiments</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+condiment%22&type=code" >Condiments</a>
     </td>
     <td align="center" width="50%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+spread%22&type=code">Spreads</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+spread%22&type=code">Spreads</a>
     </td>
   </tr>
 </table>
@@ -235,13 +221,13 @@ Types:
   </tr>
   <tr>
     <td align="center" width="33%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+bread%22&type=code" >🍞 Breads</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+bread%22&type=code" >🍞 Breads</a>
     </td>
     <td align="center" width="33%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+muffin%22&type=code">🧁 Muffins</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+muffin%22&type=code">🧁 Muffins</a>
     </td>
     <td align="center" width="33%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+scone%22&type=code">Scones</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+scone%22&type=code">Scones</a>
     </td>
   </tr>
 </table>
@@ -261,19 +247,19 @@ Types:
   </tr>
   <tr>
     <td align="center" width="20%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+cheesecake%22&type=code" >🍰 Cheesecakes</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+cheesecake%22&type=code" >🍰 Cheesecakes</a>
     </td>
     <td align="center" width="20%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+cookie%22&type=code">🍪 Cookies</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+cookie%22&type=code">🍪 Cookies</a>
     </td>
     <td align="center" width="20%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+ice+cream%22&type=code">🍦 Ice Creams</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+ice+cream%22&type=code">🍦 Ice Creams</a>
     </td>
     <td align="center" width="20%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+pie%22&type=code">🥧 Pies</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+pie%22&type=code">🥧 Pies</a>
     </td>
     <td align="center" width="20%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+tart%22&type=code">Tarts</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+tart%22&type=code">Tarts</a>
     </td>
   </tr>
 </table>
@@ -295,13 +281,13 @@ Types:
   </tr>
   <tr>
     <td align="center" width="33%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+cocktail%22&type=code" >🍹 Cocktails</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+cocktail%22&type=code" >🍹 Cocktails</a>
     </td>
     <td align="center" width="33%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+smoothie%22&type=code">🍍 Smoothies</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+smoothie%22&type=code">🍍 Smoothies</a>
     </td>
     <td align="center" width="33%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+shake%22&type=code">🥤 Shakes</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+shake%22&type=code">🥤 Shakes</a>
     </td>
   </tr>
 </table>
@@ -327,10 +313,10 @@ Types:
         </tr>
         <tr>
           <td align="center" width="50%">
-           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+beef%22&type=code">🐄 Beef</a>
+            <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+beef%22&type=code">🐄 Beef</a>
           </td>
           <td align="center" width="50%">
-           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+pork%22&type=code">🐖 Pork</a>
+            <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+pork%22&type=code">🐖 Pork</a>
           </td>
         </tr>
       </table>
@@ -344,10 +330,10 @@ Types:
         </tr>
         <tr>
           <td align="center" width="50%">
-           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+chicken%22&type=code">🐓 Chicken</a>
+            <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+chicken%22&type=code">🐓 Chicken</a>
           </td>
           <td align="center" width="50%">
-           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+turkey%22&type=code">🦃 Turkey</a>
+            <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+turkey%22&type=code">🦃 Turkey</a>
           </td>
         </tr>
       </table>
@@ -363,16 +349,16 @@ Types:
         </tr>
         <tr>
           <td align="center" width="50%">
-           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+shrimp%22&type=code">🍤 Shrimp</a>
+            <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+shrimp%22&type=code">🍤 Shrimp</a>
           </td>
           <td align="center" width="50%">
-           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+fish%22&type=code">🐟 Fish</a>
+            <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+fish%22&type=code">🐟 Fish</a>
           </td>
         </tr>
       </table>
     </td>
     <td align="center" width="50%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+vegetarian%22&type=code">🥦 Vegetarian</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+vegetarian%22&type=code">🥦 Vegetarian</a>
     </td>
   </tr>
 </table>
@@ -399,10 +385,10 @@ Proteins:
   </tr>
   <tr>
     <td align="center" width="50%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+christmas%22&type=code" >🎄 Christmas</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+christmas%22&type=code" >🎄 Christmas</a>
     </td>
     <td align="center" width="50%">
-     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+halloween%22&type=code">🎃 Halloween</a>
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+halloween%22&type=code">🎃 Halloween</a>
     </td>
   </tr>
 </table>
