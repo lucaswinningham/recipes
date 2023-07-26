@@ -9,10 +9,10 @@ Search for recipes with the following tags:
   </div>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-  <div>hello my baby</div>
-  <div>hello my honey</div>
-  <div>hello my ragtime gal</div>
+<div style="display: flex; justify-content: space-around;">
+  <div style="width: 100px; height: 100px; background: linear-gradient(-45deg, #788cff, #b4c8ff);"></div>
+  <div style="width: 100px; height: 100px; background: linear-gradient(-45deg, #788cff, #b4c8ff);"></div>
+  <div style="width: 100px; height: 100px; background: linear-gradient(-45deg, #788cff, #b4c8ff);"></div>
 </div>
 
 <pre>
