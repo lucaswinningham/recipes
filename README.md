@@ -145,7 +145,7 @@ Search for recipes with the following tags:
     <td align="center" width="50%">
       <table>
         <tr>
-          <th align="center" width="100%" colspan="2">
+          <th align="center" width="5000px" colspan="2">
             <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+sandwich%22&type=code">🥪 Sandwiches</a>
           </th>
         </tr>
