@@ -1,4 +1,6 @@
 <!-- TAG: side -->
+<!-- TAG: meat -->
+<!-- TAG: pork -->
 
 # Baked Beans
 
