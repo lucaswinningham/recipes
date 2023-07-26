@@ -318,7 +318,7 @@ Types:
     <th align="center" width="10000px" colspan="2">Protein</th>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="100%" colspan="2">
       <table>
         <tr>
           <th align="center" width="100%" colspan="2">
