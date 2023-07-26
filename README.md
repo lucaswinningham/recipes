@@ -107,6 +107,7 @@ Search for recipes with the following tags:
 [🍫 Treats](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+treat%22&type=code)  
 -->
 
+<!--
 <table border="10" bordercolor = "#0B1941">
   <tr>
     <td>
@@ -136,6 +137,7 @@ Search for recipes with the following tags:
     </td>
   </tr>
 </table>
+-->
 
 <table>
   <tr>
@@ -151,10 +153,10 @@ Search for recipes with the following tags:
         </tr>
         <tr>
           <td align="center" width="50%">
-           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+burger%22&type=code">🍔 Burgers</a>
+           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+wrap%22&type=code">🌯 Wraps</a>
           </td>
           <td align="center" width="50%">
-           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+burger%22&type=code">🍔 Burgers</a>
+           <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+roll%22&type=code">Rolls</a>
           </td>
         </tr>
       </table>
@@ -203,27 +205,113 @@ Types:
 &nbsp;&nbsp;[🥢 Stir Fry](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+stir+fry%22&type=code)  
 -->
 
-[Sauces](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+sauce%22&type=code):  
-&nbsp;&nbsp;[![image](https://github.com/lucaswinningham/recipes/assets/24572180/5a884073-d426-442e-b88b-aefa606935ed)
-Condiment](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+condiment%22&type=code)  
-&nbsp;&nbsp;[Spread](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+spread%22&type=code)  
+<table>
+  <tr>
+    <th align="center" width="10000px" colspan="2">
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+sauce%22&type=code" >Sauces</a>
+    </th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+condiment%22&type=code" >Condiments</a>
+    </td>
+    <td align="center" width="50%">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+spread%22&type=code">Spreads</a>
+    </td>
+  </tr>
+</table>
 
+<!--
+[Sauces](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+sauce%22&type=code):  
+&nbsp;&nbsp;[Condiments](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+condiment%22&type=code)  
+&nbsp;&nbsp;[Spread](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+spread%22&type=code)  
+-->
+
+<table>
+  <tr>
+    <th align="center" width="10000px" colspan="3">
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+baking%22&type=code" >🥖 Baking</a>
+    </th>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+bread%22&type=code" >🍞 Breads</a>
+    </td>
+    <td align="center" width="33%">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+muffin%22&type=code">🧁 Muffins</a>
+    </td>
+    <td align="center" width="33%">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+scone%22&type=code">Scones</a>
+    </td>
+  </tr>
+</table>
+
+<!--
 [🥖 Baking](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+baking%22&type=code):  
 &nbsp;&nbsp;[🍞 Breads](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+bread%22&type=code):  
-&nbsp;&nbsp;&nbsp;&nbsp;[🧁 Muffin](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+muffin%22&type=code)  
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;[Scone](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+scone%22&type=code)  -->
+&nbsp;&nbsp;&nbsp;&nbsp;[🧁 Muffins](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+muffin%22&type=code)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Scones](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+scone%22&type=code)  
+-->
 
+<table>
+  <tr>
+    <th align="center" width="10000px" colspan="3">
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+dessert%22&type=code" >🍮 Desserts</a>
+    </th>
+  </tr>
+  <tr>
+    <td align="center" width="20%">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+cheesecake%22&type=code" >🍰 Cheesecakes</a>
+    </td>
+    <td align="center" width="20%">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+cookie%22&type=code">🍪 Cookies</a>
+    </td>
+    <td align="center" width="20%">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+ice+cream%22&type=code">🍦 Ice Creams</a>
+    </td>
+    <td align="center" width="20%">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+pie%22&type=code">🥧 Pies</a>
+    </td>
+    <td align="center" width="20%">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+tart%22&type=code">Tarts</a>
+    </td>
+  </tr>
+</table>
+
+<!--
 [🍮 Desserts](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+dessert%22&type=code):  
-&nbsp;&nbsp;[🍰 Cheesecake](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+cheesecake%22&type=code)  
-&nbsp;&nbsp;[🍪 Cookie](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+cookie%22&type=code)  
-&nbsp;&nbsp;[🍦 Ice Cream](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+ice+cream%22&type=code)  
-&nbsp;&nbsp;[🥧 Pie](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+pie%22&type=code)  
-<!-- &nbsp;&nbsp;[Tart](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+tart%22&type=code)  -->
+&nbsp;&nbsp;[🍰 Cheesecakes](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+cheesecake%22&type=code)  
+&nbsp;&nbsp;[🍪 Cookies](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+cookie%22&type=code)  
+&nbsp;&nbsp;[🍦 Ice Creams](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+ice+cream%22&type=code)  
+&nbsp;&nbsp;[🥧 Pies](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+pie%22&type=code)  
+&nbsp;&nbsp;[Tarts](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+tart%22&type=code)  
+-->
 
+<table>
+  <tr>
+    <th align="center" width="10000px" colspan="3">
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+drink%22&type=code" >🫙 Drinks</a>
+    </th>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+cocktail%22&type=code" >🍹 Cocktails</a>
+    </td>
+    <td align="center" width="33%">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+smoothie%22&type=code">🍍 Smoothies</a>
+    </td>
+    <td align="center" width="33%">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+shake%22&type=code">🥤 Shakes</a>
+    </td>
+  </tr>
+</table>
+
+<!--
 [🫙 Drinks](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+drink%22&type=code):  
-&nbsp;&nbsp;[🍹 Cocktail](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+cocktail%22&type=code)  
-&nbsp;&nbsp;[🍍 Smoothie](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+smoothie%22&type=code)  
-&nbsp;&nbsp;[🥤 Shake](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+shake%22&type=code)  
+&nbsp;&nbsp;[🍹 Cocktails](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+cocktail%22&type=code)  
+&nbsp;&nbsp;[🍍 Smoothies](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+smoothie%22&type=code)  
+&nbsp;&nbsp;[🥤 Shakes](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+shake%22&type=code)  
+-->
 
 Proteins:  
 &nbsp;&nbsp;[🥦 Vegetarian](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+vegetarian%22&type=code)  
@@ -237,6 +325,24 @@ Proteins:
 &nbsp;&nbsp;&nbsp;&nbsp;[🍤 Shrimp](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+shrimp%22&type=code)  
 &nbsp;&nbsp;&nbsp;&nbsp;[🐟 Fish](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+fish%22&type=code)  
 
+<table>
+  <tr>
+    <th align="center" width="10000px" colspan="3">
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+holiday%22&type=code" >🎅 Holidays</a>
+    </th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+christmas%22&type=code" >🎄 Christmas</a>
+    </td>
+    <td align="center" width="50%">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+halloween%22&type=code">🎃 Halloween</a>
+    </td>
+  </tr>
+</table>
+
+<!--
 Holidays:  
 &nbsp;&nbsp;[🎄 Christmas](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+christmas%22&type=code)  
 &nbsp;&nbsp;[🎃 Halloween](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+halloween%22&type=code)  
+-->
