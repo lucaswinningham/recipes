@@ -2,16 +2,17 @@
 
 Search for recipes with the following tags:
 
+<div style="display:flex;justify-content:space-between;">
+  <div style="display:flex;">hello my baby</div>
+  <div style="display:flex;">hello my honey</div>
+  <div style="display:flex;">hello my ragtime gal</div>
+</div>
+
 <pre>
  <code>
   <a href="https://google.com">Test copy that's hopefully monospaced! And now that's also a link?!</a>
   <a href="https://google.com">And another</a>
   &nbsp;&nbsp;<a href="https://google.com">And another indented</a>
-  <div style="display:flex;justify-content:space-between;">
-    <div style="display:flex;">hello my baby</div>
-    <div style="display:flex;">hello my honey</div>
-    <div style="display:flex;">hello my ragtime gal</div>
-  </div>
  </code>
 </pre>
 
