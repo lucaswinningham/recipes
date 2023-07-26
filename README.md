@@ -2,54 +2,30 @@
 
 Search for recipes with the following tags:
 
-[Breakfast](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+breakfast"&type=code)
-[Brunch](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+brunch"&type=code)
-
-[Lunch](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+lunch"&type=code)
-
+[Breakfast](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+breakfast"&type=code)  
+[Brunch](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+brunch"&type=code)  
+[Lunch](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+lunch"&type=code)  
 [Dinner](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+dinner"&type=code)
 
-
-
-[Appetizer](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+appetizer"&type=code)
-
-[Soup](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+soup"&type=code)
-
+[Appetizer](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+appetizer"&type=code)  
+[Soup](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+soup"&type=code)  
 [Salad](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+salad"&type=code)
 
-
-
-[Side](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+side"&type=code)
-
-[Snack](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+snack"&type=code)
-
+[Side](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+side"&type=code)  
+[Snack](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+snack"&type=code)  
 [Treat](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+treat"&type=code)
 
-
-
-Types:
-
-&nbsp;&nbsp;[Sandwiches](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+sandwich"&type=code):
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Wrap](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+wrap"&type=code)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Roll](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+roll"&type=code)
-
-&nbsp;&nbsp;[Burger](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+burger"&type=code)
-
-&nbsp;&nbsp;[Pizza](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+pizza"&type=code)
-
-&nbsp;&nbsp;[Rice](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+rice"&type=code)
-
-&nbsp;&nbsp;[Noodles](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+noodles"&type=code)
-
-&nbsp;&nbsp;[Pasta](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+pasta"&type=code)
-
-&nbsp;&nbsp;[Sausage](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+sausage"&type=code)
-
+Types:  
+&nbsp;&nbsp;[Sandwiches](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+sandwich"&type=code):  
+&nbsp;&nbsp;&nbsp;&nbsp;[Wrap](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+wrap"&type=code)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Roll](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+roll"&type=code)  
+&nbsp;&nbsp;[Burger](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+burger"&type=code)  
+&nbsp;&nbsp;[Pizza](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+pizza"&type=code)  
+&nbsp;&nbsp;[Rice](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+rice"&type=code)  
+&nbsp;&nbsp;[Noodles](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+noodles"&type=code)  
+&nbsp;&nbsp;[Pasta](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+pasta"&type=code)  
+&nbsp;&nbsp;[Sausage](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+sausage"&type=code)  
 &nbsp;&nbsp;[Stir Fry](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+stir+fry"&type=code)
-
-
 
 [Sauces](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+sauce"&type=code):
 
