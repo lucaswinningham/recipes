@@ -61,6 +61,8 @@ Search for recipes with the following tags:
 [🫕 Dinner](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+dinner%22&type=code)  
 -->
 
+---
+
 <table>
   <tr>
     <th align="center" width="10000px" colspan="3">Accompaniments</th>
@@ -84,6 +86,8 @@ Search for recipes with the following tags:
 [🥗 Salads](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+salad%22&type=code)  
 -->
 
+---
+
 <table>
   <tr>
     <th align="center" width="10000px" colspan="3">Misc</th>
@@ -106,6 +110,8 @@ Search for recipes with the following tags:
 [🍿 Snacks](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+snack%22&type=code)  
 [🍫 Treats](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+treat%22&type=code)  
 -->
+
+---
 
 <!--
 <table border="10" bordercolor = "#0B1941">
@@ -191,6 +197,8 @@ Types:
 &nbsp;&nbsp;[🥢 Stir Fry](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+stir+fry%22&type=code)  
 -->
 
+---
+
 <table>
   <tr>
     <th align="center" width="10000px" colspan="2">
@@ -212,6 +220,8 @@ Types:
 &nbsp;&nbsp;[Condiments](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+condiment%22&type=code)  
 &nbsp;&nbsp;[Spread](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+spread%22&type=code)  
 -->
+
+---
 
 <table>
   <tr>
@@ -273,6 +283,8 @@ Types:
 &nbsp;&nbsp;[Tarts](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+tart%22&type=code)  
 -->
 
+---
+
 <table>
   <tr>
     <th align="center" width="10000px" colspan="3">
@@ -298,6 +310,8 @@ Types:
 &nbsp;&nbsp;[🍍 Smoothies](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+smoothie%22&type=code)  
 &nbsp;&nbsp;[🥤 Shakes](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+shake%22&type=code)  
 -->
+
+---
 
 <table>
   <tr>
@@ -377,6 +391,8 @@ Proteins:
 &nbsp;&nbsp;&nbsp;&nbsp;[🐟 Fish](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+fish%22&type=code)  
 -->
 
+---
+
 <table>
   <tr>
     <th align="center" width="10000px" colspan="2">
@@ -398,3 +414,5 @@ Holidays:
 &nbsp;&nbsp;[🎄 Christmas](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+christmas%22&type=code)  
 &nbsp;&nbsp;[🎃 Halloween](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+halloween%22&type=code)  
 -->
+
+---
