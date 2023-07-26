@@ -326,10 +326,10 @@ Types:
           </th>
         </tr>
         <tr>
-          <td align="center" width="200px">
+          <td align="center" width="300px">
             <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+beef%22&type=code">🐄 Beef</a>
           </td>
-          <td align="center" width="200px">
+          <td align="center" width="300px">
             <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+pork%22&type=code">🐖 Pork</a>
           </td>
         </tr>
@@ -343,10 +343,10 @@ Types:
           </th>
         </tr>
         <tr>
-          <td align="center" width="200px">
+          <td align="center" width="300px">
             <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+chicken%22&type=code">🐓 Chicken</a>
           </td>
-          <td align="center" width="200px">
+          <td align="center" width="300px">
             <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+turkey%22&type=code">🦃 Turkey</a>
           </td>
         </tr>
@@ -362,10 +362,10 @@ Types:
           </th>
         </tr>
         <tr>
-          <td align="center" width="200px">
+          <td align="center" width="300px">
             <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+shrimp%22&type=code">🍤 Shrimp</a>
           </td>
-          <td align="center" width="200px">
+          <td align="center" width="300px">
             <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+fish%22&type=code">🐟 Fish</a>
           </td>
         </tr>
