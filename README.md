@@ -2,36 +2,6 @@
 
 Search for recipes with the following tags:
 
-<table border="10" bordercolor = "#0B1941">
-  <tr>
-    <td>
-      <table border="10" bordercolor = "#F8F3F3">
-        <tr>
-          <td>
-            <table border="10" bordercolor = "#C74D4F">
-              <tr>
-                <td>
-                  <table border="10" bordercolor = "#DCE127">
-                    <tr>
-                      <td>
-                        <table border="10" bordercolor = "#3CAB16">
-                          <tr>
-                            <td></td>
-                          </tr>
-                        </table>
-                      </td>
-                    </tr>
-                  </table>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
 <!--
 <pre>
  <code>
@@ -137,13 +107,47 @@ Search for recipes with the following tags:
 [🍫 Treats](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+treat%22&type=code)  
 -->
 
+<table border="10" bordercolor = "#0B1941">
+  <tr>
+    <td>
+      <table border="10" bordercolor = "#F8F3F3">
+        <tr>
+          <td>
+            <table border="10" bordercolor = "#C74D4F">
+              <tr>
+                <td>
+                  <table border="10" bordercolor = "#DCE127">
+                    <tr>
+                      <td>
+                        <table border="10" bordercolor = "#3CAB16">
+                          <tr>
+                            <td></td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
 <table>
   <tr>
     <th align="center" width="10000px" colspan="4">Types</th>
   </tr>
   <tr>
     <td align="center" width="50%">
-     FOO
+      <table border="10" bordercolor = "#3CAB16">
+        <tr>
+          <td></td>
+        </tr>
+      </table>
     </td>
     <td align="center" width="50%">
      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+burger%22&type=code">🍔 Burgers</a>
