@@ -143,9 +143,11 @@ Search for recipes with the following tags:
   </tr>
   <tr>
     <td align="center" width="50%">
-      <table border="10" bordercolor = "#3CAB16">
+      <table>
         <tr>
-          <th align="center" width="10000px" colspan="4">🕐 Times</th>
+          <th align="center" width="5000px" colspan="2">
+            <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+sandwich%22&type=code">🥪 Sandwiches</a>
+          </th>
         </tr>
         <tr>
           <td align="center" width="50%">
