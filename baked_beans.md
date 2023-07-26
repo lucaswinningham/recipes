@@ -21,7 +21,7 @@
 1. Preheat the oven to 350°F and in a large skillet, add the butter and when it's melted add the onions, salt, pepper, garlic powder, and barbecue rub. Cook the onions until translucent.
 2. Add breakfast sausage and cook until browned. Add the smoked sausage, maple syrup, brown sugar, and sriracha. Stir and simmer for about 20 minutes.
 3. Transfer mixture to aluminum foil lasagna pan and add the baked beans and stir. Bake uncovered for 30-35 minutes.
-4. Serve as a side. Serves fifteen to twenty.
+4. Serve as a side 15-20 people.
 
 # Baked Beans (Huge)
 
@@ -46,4 +46,4 @@
 1. Preheat the oven to 350°F and in a large skillet, add the butter and when it's melted add the onions, salt, pepper, garlic powder, and barbecue rub. Cook the onions until translucent.
 2. Add breakfast sausage and cook until browned. Add the smoked sausage, maple syrup, brown sugar, and sriracha. Stir and simmer for about 20 minutes.
 3. Transfer mixture to aluminum foil lasagna pan and add the baked beans and stir. Bake uncovered for 30-35 minutes.
-4. Serve as a side. Serves thirty to fourty.
+4. Serve as a side to 30-40 people.
