@@ -46,7 +46,7 @@ Search for recipes with the following tags:
         }
       ]
     }
-    \```
+    ```
       
     </td>
 
@@ -59,7 +59,7 @@ Search for recipes with the following tags:
         }
       ]
     }
-    \```
+    ```
       
     </td>
   </tr>
