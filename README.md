@@ -2,7 +2,7 @@
 
 Search for recipes with the following tags:
 
-    Test copy that's hopefully monospaced!  
+    [Test copy that's hopefully monospaced! And now that's also a link?!](google.com)  
 
 [Breakfast](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+breakfast"&type=code)  
 [Brunch](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+brunch"&type=code)  
