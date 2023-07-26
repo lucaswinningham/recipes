@@ -12,10 +12,69 @@ Search for recipes with the following tags:
 </pre>
 -->
 
-| Something | Else |
-|---------------|------------------------------------------------------------------------------------------------------|
-| Short | This is longer this is longer this is longer this is longer this is longer this is longer this is longer this is longer this is longer this is longer this is longer this is longer |
-| Short | |
+<table>
+  <tr>
+    <th align="center">
+      <img width="441" height="1">
+      <p> 
+        <small>
+          EXAMPLE TEXT
+        </small>
+      </p>
+    </th>
+
+    <th align="center">
+      <img width="441" height="1">
+
+      <p> 
+        <small>
+          EXAMPLE TEXT
+        </small>
+      </p>
+    </th>
+
+  </tr>
+
+  <tr>
+    <td>
+    <!-- REMOVE THE BACKSLASHES -->
+    \```jsonc
+    {
+      "foo": [
+        {
+          "bar": "hello world"
+        }
+      ]
+    }
+    \```
+      
+    </td>
+
+    <td>
+    <!-- REMOVE THE BACKSLASHES -->
+    \```jsonc
+    {
+      "foo": [
+        {
+          "bar": "hello world"
+        }
+      ]
+    }
+    \```
+      
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      Column 1
+    </td>
+
+    <td align="center">
+      Column 2
+    </td>
+  </tr>
+</table>
 
 [🍳 Breakfast](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+breakfast"&type=code)  
 [🥯 Brunch](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+brunch"&type=code)  
