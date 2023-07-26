@@ -34,7 +34,7 @@ Search for recipes with the following tags:
 
 <table>
   <tr>
-    <th align="center" width="10000px" colspan="4">🕐 Time</th>
+    <th align="center" width="10000px" colspan="4">Time</th>
   </tr>
 
   <tr width="500px">
@@ -53,18 +53,60 @@ Search for recipes with the following tags:
   </tr>
 </table>
 
+<!--
 [🍳 Breakfast](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+breakfast"&type=code)  
 [🥯 Brunch](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+brunch"&type=code)  
 [🍲 Lunch](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+lunch"&type=code)  
 [🫕 Dinner](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+dinner"&type=code)  
+-->
 
+<table>
+  <tr>
+    <th align="center" width="10000px" colspan="3">Starters</th>
+  </tr>
+
+  <tr width="500px">
+    <td align="center">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+appetizer"&type=code" >🥟 Appetizers</a>
+    </td>
+    <td align="center">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+soup"&type=code">🍲 Soups</a>
+    </td>
+    <td align="center">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+salad"&type=code">🥗 Salads</a>
+    </td>
+  </tr>
+</table>
+
+<!--
 [🥟 Appetizers](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+appetizer"&type=code)  
 [🍲 Soups](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+soup"&type=code)  
 [🥗 Salads](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+salad"&type=code)  
+-->
 
+<table>
+  <tr>
+    <th align="center" width="10000px" colspan="3">Misc</th>
+  </tr>
+
+  <tr width="500px">
+    <td align="center">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+side"&type=code" >🍟 Sides</a>
+    </td>
+    <td align="center">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+snack"&type=code">🍿 Snacks</a>
+    </td>
+    <td align="center">
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+treat"&type=code">🍫 Treats</a>
+    </td>
+  </tr>
+</table>
+
+<!--
 [🍟 Sides](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+side"&type=code)  
 [🍿 Snacks](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+snack"&type=code)  
 [🍫 Treats](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+treat"&type=code)  
+-->
 
 Types:  
 &nbsp;&nbsp;[🥪 Sandwiches](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+sandwich"&type=code):  
