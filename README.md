@@ -318,10 +318,10 @@ Types:
     <th align="center" width="10000px" colspan="2">Protein</th>
   </tr>
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
       <table>
         <tr>
-          <th align="center" colspan="2">
+          <th align="center">
             <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+meat%22&type=code">🥩 Meats</a>
           </th>
         </tr>
