@@ -18,11 +18,13 @@ Search for recipes with the following tags:
     <th align="center" width="500px">Contact</th>
     <th align="center" width="500px">Country</th>
   </tr>
+
   <tr width="500px">
     <td align="center">Alfreds Futterkiste</td>
     <td align="center">Maria Anders</td>
     <td align="center">Germany</td>
   </tr>
+
   <tr width="500px">
     <td align="center">Centro comercial Moctezuma</td>
     <td align="center">Francisco Chang</td>
@@ -32,20 +34,21 @@ Search for recipes with the following tags:
 
 <table>
   <tr>
-    <th align="center" width="'100%'">🕐 Time</th>
+    <th align="center" width="'100%'" colspan="4">🕐 Time</th>
   </tr>
+
   <tr width="500px">
     <td align="center">
-     [🍳 Breakfast](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+breakfast"&type=code)
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+breakfast"&type=code" >🍳 Breakfast</a>
     </td>
     <td align="center">
-     [🥯 Brunch](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+brunch"&type=code)
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+brunch"&type=code">🥯 Brunch</a>
     </td>
     <td align="center">
-     [🍲 Lunch](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+lunch"&type=code)
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+lunch"&type=code">🍲 Lunch</a>
     </td>
     <td align="center">
-     [🫕 Dinner](https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+dinner"&type=code)
+     <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+"TAG%3A+dinner"&type=code">🫕 Dinner</a>
     </td>
   </tr>
 </table>
