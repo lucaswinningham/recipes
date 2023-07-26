@@ -1,3 +1,5 @@
+<!-- TAG: side -->
+
 # Baked Beans
 
 #### Ingredients
