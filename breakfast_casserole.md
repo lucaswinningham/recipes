@@ -1,8 +1,12 @@
+<!-- TAG: breakfast -->
+<!-- TAG: meat -->
+<!-- TAG: pork -->
+
 # Breakfast Casserole
 
 #### Ingredients
 
-- [ ] 1 lb pork sausage (substitute turkey sausage by doubling the amount of butter to 8 tbsps)
+- [ ] 1 lb breakfast sausage (substitute turkey sausage by doubling the amount of butter to 8 tbsps)
 - [ ] 8 count canned biscuits
 - [ ] 4 tbsps butter (+ a little more for greasing the baking dish)
 - [ ] 1/2 cup flour
@@ -20,4 +24,4 @@
 5. In a mixing bowl, whisk aggs and the remaining 1 cup of milk along with salt and pepper for seasoning until homogeneous and pour into the baking dish.
 6. Spread the gravy as the top layer in the baking dish.
 7. Bake for 25-35 minutes.
-8. Slice into squares and serve with fresh fruit. Serves six to eight.
+8. Slice into squares and serve with fresh fruit. Serves 6 to 8 people.

@@ -1,7 +1,8 @@
-<!-- TAG: side -->
 <!-- TAG: meat -->
 <!-- TAG: pork -->
 <!-- TAG: sausage -->
+<!-- TAG: side -->
+<!-- TAG: potluck -->
 
 # Baked Beans
 

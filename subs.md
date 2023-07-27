@@ -1,3 +1,8 @@
+<!-- TAG: lunch -->
+<!-- TAG: dinner -->
+<!-- TAG: sandwich -->
+<!-- TAG: meat -->
+
 ## Oil and Vinegar
 
 #### Ingredients
@@ -13,6 +18,8 @@
 #### Method
 
 1. In a mixing bowl, whisk all ingredients together.
+
+<!-- TAG: pork -->
 
 # Italian Sub
 
@@ -47,6 +54,9 @@
 
 1. In a mixing bowl, mix all ingredients together.
 
+<!-- TAG: chicken -->
+<!-- TAG: pork -->
+
 # Chicken and Pesto Sub
 
 #### Ingredients
@@ -68,6 +78,9 @@
 4. Bake for 10-15 minutes.
 5. Remove the baking sheet from the oven. Add tomatoes, avocado, shredded lettuce, and other desired toppings to the bottom half. On the top half, spread the caesar pesto and season with salt and pepper. Combine the top and bottom halves.
 6. Slice and serve with potato chips. Serves four to six.
+
+<!-- TAG: turkey -->
+<!-- TAG: pork -->
 
 # Turkey, Avocado, and Bacon Sub
 

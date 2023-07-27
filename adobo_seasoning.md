@@ -1,3 +1,6 @@
+<!-- TAG: accoutrements -->
+<!-- TAG: seasoning -->
+
 # Adobo Seasoning
 
 #### Ingredients
@@ -11,3 +14,7 @@
 - [ ] 1 tsp garlic powder
 - [ ] 1 tsp chili powder
 - [ ] 1 tsp cayenne pepper
+
+#### Method
+
+1. Combine all ingredients.
