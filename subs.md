@@ -7,7 +7,7 @@
 
 #### Ingredients
 
-- [ ] 1/4 cup rice vinegar (substitute with white wine vinegar or red wine vinegar)
+- [x] 1/4 cup rice vinegar (substitute with white wine vinegar or red wine vinegar)
 - [ ] 1/4 cup extra virgin olive oil
 - [ ] 2 tbsps parmesan cheese, grated
 - [ ] 1 tbsp sugar
