@@ -1,4 +1,5 @@
 <!-- TODO: Add emojis or images for each missing category -->
+<!-- TODO: Add vegan, vegetarian, gluten free tags to all applicable recipes -->
 
 # My Recipes
 
@@ -136,19 +137,19 @@ Search for recipes with the following tags:
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+spread%22&type=code">
-        Spreads
+        🫙 Spreads
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+sauce%22&type=code">
-        Sauces
+        🛸 Sauces
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+seasoning%22&type=code">
-        Seasonings
+        🧂 Seasonings
       </a>
     </td>
   </tr>
@@ -233,9 +234,30 @@ Search for recipes with the following tags:
       </table>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+vegetarian%22&type=code">
-        🥦 Vegetarian
-      </a>
+      <table>
+        <tr>
+          <th align="center" colspan="2">
+            Restrictions
+          </th>
+        </tr>
+        <tr>
+          <td align="center" width="200px">
+            <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+vegetarian%22&type=code">
+              🥦 Vegetarian
+            </a>
+          </td>
+          <td align="center" width="200px">
+            <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+vegan%22&type=code">
+              🌱 Vegan
+            </a>
+          </td>
+          <td align="center" width="200px">
+            <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+gluten+free%22&type=code">
+              🚫 Gluten Free
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>

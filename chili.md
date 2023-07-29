@@ -14,13 +14,13 @@
 - [ ] 1 large yellow onion, chopped
 - [ ] 1 head garlic, minced
 - [ ] 3 stalks celery, chopped
-- [ ] 2 jalapeno peppers, seeded, diced
+- [ ] 2 jalapeño peppers, seeded, diced
 - [ ] 2 poblano peppers, seeded, diced
 - [ ] 2 green peppers, seeded, chopped
-- [ ] 2 lbs ground beef chuck
+- [ ] 2 lbs ground beef
 - [ ] 1 lb breakfast sausage
-- [ ] 4 (15oz) chili beans
-- [ ] 2 (28oz) diced tomatoes with juice
+- [ ] 4 15oz cans chili beans
+- [ ] 2 28oz cans diced tomatoes with juice
 - [ ] 4 cubes beef bouillon
 - [ ] 1/4 cup chili powder
 - [ ] 1 tbsp worcestershire
