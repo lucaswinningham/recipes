@@ -236,7 +236,7 @@ Search for recipes with the following tags:
     <td align="center" width="50%">
       <table>
         <tr>
-          <th align="center" colspan="2">
+          <th align="center" colspan="3">
             Restrictions
           </th>
         </tr>

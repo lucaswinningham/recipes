@@ -16,7 +16,7 @@
 - [ ] 3 stalks celery, chopped
 - [ ] 2 jalapeño peppers, seeded, diced
 - [ ] 2 poblano peppers, seeded, diced
-- [ ] 2 green peppers, seeded, chopped
+- [ ] 2 green bell peppers, seeded, chopped
 - [ ] 2 lbs ground beef
 - [ ] 1 lb breakfast sausage
 - [ ] 4 15oz cans chili beans
