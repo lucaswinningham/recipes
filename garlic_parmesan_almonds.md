@@ -18,6 +18,6 @@
 #### Method
 
 1. Preheat the oven to 350°F and in a baking sheet lined with parchment paper, spread the almonds out evenly.
-2. Bake for 15-20 minutes until the almonds are done.
+2. Bake for 15 to 20 minutes until the almonds are done.
 3. While the almonds are baking, in a sauce pan over medium heat, add the olive oil to bring up to temperature. Add the garlic, thyme, and rosemary and sauté until fragrant.
 4. In a mixing bowl, stir to combine the almonds, sautéd garlic and herbs in olive oil, parmesan, and salt.

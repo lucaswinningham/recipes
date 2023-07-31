@@ -39,7 +39,7 @@
 
 1. Preheat the oven to 400°F and on a baking sheet, lay the bread outside down and spread most of the oil and vinegar to the bread surfaces, saving some for drizzling over the shredded lettuce at the end.
 2. Add layers of provolone cheese, salami, and pepperoni to bottom half of bread.
-3. Bake for 10-15 minutes.
+3. Bake for 10 to 15 minutes.
 4. Remove the baking sheet from the oven. Add tomatoes, shredded lettuce, and other desired toppings to the bottom half. Drizzle with remaining oil and vinegar. On the top half, spread desired amount of mayo and season with pepper (skip seasoning with salt as there's plenty of sodium in the pepperoni and salami). Combine the top and bottom halves.
 5. Slice and serve with potato chips. Serves four to six.
 
@@ -75,7 +75,7 @@
 1. Cook chicken using any desired method making sure it's fully cooked and has an internal temperature of 165°F.
 2. Preheat the oven to 400°F and on a baking sheet, lay the bread outside down.
 3. Add layers of mozzarella cheese, bacon, and chicken to bottom half of bread.
-4. Bake for 10-15 minutes.
+4. Bake for 10 to 15 minutes.
 5. Remove the baking sheet from the oven. Add tomatoes, avocado, shredded lettuce, and other desired toppings to the bottom half. On the top half, spread the caesar pesto and season with salt and pepper. Combine the top and bottom halves.
 6. Slice and serve with potato chips. Serves four to six.
 
@@ -99,6 +99,6 @@
 
 1. Preheat the oven to 400°F and on a baking sheet, lay the bread outside down.
 2. Add layers of mozzarella cheese, bacon, and turkey to bottom half of bread.
-3. Bake for 10-15 minutes.
+3. Bake for 10 to 15 minutes.
 4. Remove the baking sheet from the oven. Add tomatoes, avocado, shredded lettuce, and other desired toppings to the bottom half. On the top half, spread the caesar pesto and season with salt and pepper. Combine the top and bottom halves.
 5. Slice and serve with potato chips. Serves four to six.

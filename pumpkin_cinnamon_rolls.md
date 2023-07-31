@@ -58,5 +58,5 @@
 1. Start by making the dough first, then while it's rising, make the filling.
 2. Once, the dough is rolled out, spread the filling mixture onto the dough all the way to the edges.
 3. Gently roll the dough up from the long end to form a log. Using a sharp knife, cut the log into 1 inch rolls (about 12 total). Spray a 9x13 inch baking dish with cooking spray and add the rolls. Cover and allow to rise for 40 minutes.
-4. Bake at 350°F for 20-25 minutes.
+4. Bake at 350°F for 20 to 25 minutes.
 5. While the rolls are baking, make the frosting. Once the rolls are done baking, remove from oven and spread the frosting over the warm cinnamon rolls. Allow to cool for 5 minutes and serve to 8 to 10 people.

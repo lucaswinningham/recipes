@@ -6,7 +6,7 @@
 
 #### Method
 
-1. Add the sugar to a 9 x 13 baking dish and roast at 300°F for 2-3 hours, stirring every 15-20 minutes until light golden in color.
+1. Add the sugar to a 9 x 13 baking dish and roast at 300°F for 2-3 hours, stirring every  to utes until light golden in color.
 2. Let cool for 1 hour before using. If the sugar has clumped and/or hardened during the cooling process, you can add the sugar to a food processor or blender to break up the large chunks.
 
 ## Browned Butter
@@ -45,5 +45,5 @@
 4. Add half of the dry ingredients and continue mixing the ingredients for 30 seconds. Then add the remaining dry ingredients and mix until a crumbly dough forms.
 5. Transfer the dough to the prepared pan and gently press it into the sides and corners of the tray.
 6. Top the shortbread with a generous sprinkling of more demerara sugar and bake for 1 to 1.5 hours or until the top is set and has become lightly golden.
-7. Allow the shortbread to cool for 10-15 minutes the while still warm, cut the shortbread to the desired size using a thin knife.
+7. Allow the shortbread to cool for 10 to 15 minutes the while still warm, cut the shortbread to the desired size using a thin knife.
 8. Allow the shortbread to completely cool and serve with your choice of warm beverage.

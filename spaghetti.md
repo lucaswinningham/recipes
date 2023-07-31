@@ -44,7 +44,7 @@
 
 1. Preheat oven on broil and move rack to middle position. Lightly brush a baking sheet with olive oil.
 2. In a mixing bowl, fold all ingredients together until homogeneous. Roll into uniform balls and spread evenly on baking sheet.
-3. Broil for 10-15 minutes until the top sides of the meatballs are browned. Flip the meatballs and broil them on the other side for an additional 2-5 minutes.
+3. Broil for 10 to 15 minutes until the top sides of the meatballs are browned. Flip the meatballs and broil them on the other side for an additional 2-5 minutes.
 
 <!-- TAG: bread -->
 
@@ -64,7 +64,7 @@
 #### Method
 
 1. Preheat oven to 400°F and in a mixing bowl, combine butter, salt, pepper, italian seasoning, garlic powder, and onion powder until homogeneous.
-2. Spread the butter mixture to both halves of the bread evenly. Add the mozzarella cheese to both halves and bake for 10-15 minutes.
+2. Spread the butter mixture to both halves of the bread evenly. Add the mozzarella cheese to both halves and bake for 10 to 15 minutes.
 
 <!-- TAG: dinner -->
 <!-- TAG: pasta -->
