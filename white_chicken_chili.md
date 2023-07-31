@@ -48,4 +48,4 @@
 
 1. In an 8 quart stockpot over medium heat add the chicken with pan sauce, chicken broth, green chiles, beans, corn, cumin, oregano, chili powder, red pepper flakes, and cream cheese. Stir to combine until cream cheese has melted.
 2. Simmer for at least 1 hour stirring occasionally to prevent burning at the bottom.
-3. Serve to 8 to 10 people.
+3. Serve in a bowl with a dollop of sour cream. Serves to 8 to 10 people.
