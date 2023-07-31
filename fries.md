@@ -3,7 +3,7 @@
 <!-- TAG: gluten free -->
 <!-- TAG: side -->
 
-# Salsa
+# Fries
 
 #### Ingredients
 
