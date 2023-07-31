@@ -1,5 +1,6 @@
 <!-- TODO: Add emojis or images for each missing category -->
 <!-- TODO: Add vegan, vegetarian, gluten free tags to all applicable recipes -->
+<!-- TODO: Add GitHub Action to check for regex: (\d+).?-.?(\d+).?(min|hr|hour) which targets phrases like "1-2 minutes" (because we prefer) "1 to 2 minutes" -->
 
 # My Recipes
 

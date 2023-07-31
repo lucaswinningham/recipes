@@ -17,10 +17,10 @@
 
 #### Method
 
-1. In a dutch oven over medium-low heat, allow olive oil to come up to temperature. Add onion, garlic, red pepper flakes, oregano and sauté until onions are translucent, about 3-5 minutes.
-2. Stir in tomato paste and cook for 1-2 minutes.
+1. In a dutch oven over medium-low heat, allow olive oil to come up to temperature. Add onion, garlic, red pepper flakes, oregano and sauté until onions are translucent, about 3 to 5 minutes.
+2. Stir in tomato paste and cook for 1 to 2 minutes.
 3. Reduce heat to low and add tomatoes, crushing them in the dutch oven and stirring. Add the basil.
-4. Simmer for 1-2 hours.
+4. Simmer for 1 to 2 hours.
 5. Remove the basil and add butter. Stir until the butter is melted. Salt and pepper to taste.
 
 <!-- TAG: meat -->
@@ -44,7 +44,7 @@
 
 1. Preheat oven on broil and move rack to middle position. Lightly brush a baking sheet with olive oil.
 2. In a mixing bowl, fold all ingredients together until homogeneous. Roll into uniform balls and spread evenly on baking sheet.
-3. Broil for 10 to 15 minutes until the top sides of the meatballs are browned. Flip the meatballs and broil them on the other side for an additional 2-5 minutes.
+3. Broil for 10 to 15 minutes until the top sides of the meatballs are browned. Flip the meatballs and broil them on the other side for an additional 2 to 5 minutes.
 
 <!-- TAG: bread -->
 

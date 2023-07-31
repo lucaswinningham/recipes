@@ -6,7 +6,7 @@
 
 #### Method
 
-1. Add the sugar to a 9 x 13 baking dish and roast at 300°F for 2-3 hours, stirring every  to utes until light golden in color.
+1. Add the sugar to a 9 x 13 baking dish and roast at 300°F for 2 to 3 hours, stirring every  to utes until light golden in color.
 2. Let cool for 1 hour before using. If the sugar has clumped and/or hardened during the cooling process, you can add the sugar to a food processor or blender to break up the large chunks.
 
 ## Browned Butter
@@ -40,7 +40,7 @@
 #### Method
 
 1. Preheat the oven to 300°F and in a rimmed 6 x 10 (1/8 sheet) baking sheet, brush with a coating of soft butter. Add the demerara sugar and tilt the pan until it is well coated.
-2. Combine butter, browned butter, salt, and toasted sugar in the bowl of a stand mixer. Mix well for 2-3 minutes.
+2. Combine butter, browned butter, salt, and toasted sugar in the bowl of a stand mixer. Mix well for 2 to 3 minutes.
 3. Meanwhile, combine the flour and cornstarch in a bowl. Whisk well to combine.
 4. Add half of the dry ingredients and continue mixing the ingredients for 30 seconds. Then add the remaining dry ingredients and mix until a crumbly dough forms.
 5. Transfer the dough to the prepared pan and gently press it into the sides and corners of the tray.
