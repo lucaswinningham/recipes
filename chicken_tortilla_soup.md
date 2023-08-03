@@ -3,7 +3,6 @@
 <!-- TAG: soup -->
 <!-- TAG: meat -->
 <!-- TAG: chicken -->
-<!-- TAG: potluck -->
 
 # Chicken Tortilla Soup
 
