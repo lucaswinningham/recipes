@@ -9,7 +9,7 @@
 #### Ingredients
 
 - [ ] 1 13-1/2"x9-5/8"x2-3/4" aluminum foil lasagna pan <!-- for a double recipe, use 16-5/8"x11-7/8"x2-5/8" aluminum foil roaster pan -->
-- [ ] 3 cans 1lb / 12oz Bush's Brown Sugar Hickory baked beans
+- [ ] 3 cans 1lb12oz Bush's Brown Sugar Hickory baked beans
 - [ ] 2 tbsps butter
 - [ ] 1 lb yellow onion, diced
 - [ ] 1 lb breakfast sausage
