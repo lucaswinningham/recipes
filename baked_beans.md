@@ -16,7 +16,7 @@
 - [ ] 1 smoked sausage, diced
 - [ ] 3 tbsps maple syrup
 - [ ] 3 tbsps brown sugar
-- [ ] 1 tbsp barbecue rub
+- [ ] 1 tbsp barbecue rub or cajun seasoning <!-- Slap Ya Mama -->
 - [ ] 1 tbsp sriracha
 - [ ] 1 tsp salt
 - [ ] 1 tsp pepper
