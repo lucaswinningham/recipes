@@ -12,15 +12,15 @@
 - [ ] 3 cans 1lb-12oz Bush's Brown Sugar Hickory baked beans
 - [ ] 2 tbsps butter
 - [ ] 1 lb yellow onion, diced
+- [ ] 1 tsp salt
+- [ ] 1 tsp pepper
+- [ ] 1 tsp garlic powder
+- [ ] 1 tbsp barbecue rub or cajun seasoning <!-- Slap Ya Mama -->
 - [ ] 1 lb breakfast sausage
 - [ ] 1 smoked sausage, diced
 - [ ] 3 tbsps maple syrup
 - [ ] 3 tbsps brown sugar
-- [ ] 1 tbsp barbecue rub or cajun seasoning <!-- Slap Ya Mama -->
-- [ ] 1 tbsp sriracha
-- [ ] 1 tsp salt
-- [ ] 1 tsp pepper
-- [ ] 1 tsp garlic powder
+- [ ] 3 tbsps sriracha
 
 #### Method
 
