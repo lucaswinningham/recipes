@@ -9,7 +9,7 @@
 - [ ] 1 lb breakfast sausage (substitute turkey sausage by doubling the amount of butter to 8 tbsps)
 - [ ] 8 count canned biscuits
 - [ ] 4 tbsps butter (+ a little more for greasing the baking dish)
-- [ ] 1/2 cup flour
+- [ ] 1/2 cup all-purpose flour
 - [ ] 1 qt milk
 - [ ] 1 tbsp pepper
 - [ ] 2 cups cheddar cheese, shredded

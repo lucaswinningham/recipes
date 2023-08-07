@@ -3,7 +3,7 @@
 #### Ingredients
 
 - [ ] 1/4 cup (57g) butter
-- [ ] 1/4 cup all purpose flour, sifted
+- [ ] 1/4 cup all-purpose flour, sifted
 - [ ] 4 cups whole milk, cold
 
 #### Method

@@ -34,7 +34,7 @@
 - [ ] 5 oz unsalted butter (plus a little more for greasing), softened
 - [ ] 2 tbsps demerara sugar
 - [ ] 3/4 tsp kosher salt
-- [ ] 9.5 oz all purpose flour, sifted
+- [ ] 9.5 oz all-purpose flour, sifted
 - [ ] 2 oz cornstarch
 
 #### Method

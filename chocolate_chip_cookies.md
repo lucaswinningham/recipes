@@ -23,7 +23,7 @@
 - [ ] 1/2 cup white sugar
 - [ ] 1 1/2 cups dark brown sugar
 - [ ] 2 eggs, cold
-- [ ] 11.5 oz all purpose flour, sifted
+- [ ] 11.5 oz all-purpose flour, sifted
 - [ ] 1 tbsp kosher salt
 - [ ] 1/2 tsp baking soda
 - [ ] 1/4 tsp cinnamon

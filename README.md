@@ -1,6 +1,7 @@
 <!-- TODO: Add emojis or images for each missing category -->
 <!-- TODO: Add vegan, vegetarian, gluten free tags to all applicable recipes -->
 <!-- TODO: Add GitHub Action to check for regex: (\d+).?-.?(\d+).?(min|hr|hour|day) which targets phrases like "1-2 minutes" (because we prefer) "1 to 2 minutes" -->
+<!-- TODO: Add metric system measurements, Celcius, etc. -->
 
 # My Recipes
 
@@ -426,6 +427,14 @@ Search for recipes with the following tags:
         🎃 Halloween
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/search?q=repo%3Alucaswinningham%2Frecipes+%22TAG%3A+july+4th%22&type=code">
+        🇺🇸 July 4th
+      </a>
+    </td>
+    <td align="center" width="50%"></td>
   </tr>
 </table>
 
