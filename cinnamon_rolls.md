@@ -4,7 +4,7 @@
 
 - [ ] 4 cups all-purpose flour
 - [ ] 1/2 cup sugar <!-- 4 tbps (1/4 cup) -->
-- [ ] 1 packet (2-1/4 tsp) active dry yeast
+- [ ] 1 packet (2 1/4 tsp) active dry yeast
 - [ ] 1 cup warm whole milk (110°F)
 - [ ] 1/3 cup butter, melted <!-- 2 tbsps -->
 - [ ] 2 eggs, beaten <!-- 1 egg -->
@@ -72,13 +72,15 @@
 7. Once the cinnamon rolls are out of the oven, let them cool slightly before drizzling the cream cheese icing over them.
 8. Allow the rolls to cool for 5 minutes and serve to 8 to 10 people.
 
+<!-- TAG: spread -->
+
 ## Strawberry Compote
 
 #### Ingredients
 
 - [ ] 1 cup strawberries
 - [ ] 2 tbsps sugar (adjust to taste)
-- [ ] 1-1/2 tsp lemon juice
+- [ ] 1 1/2 tsp lemon juice
 - [ ] 1/2 tsp vanilla extract (optional)
 
 #### Method
@@ -100,13 +102,15 @@
 
 Refer to the [Cinnamon Roll](#cinnamon-roll) recipe. Add [Strawberry Compote](#strawberry-compote) to the Filling. Proceed with the rest of the recipe as usual.
 
+<!-- TAG: spread -->
+
 ## Blueberry Compote
 
 #### Ingredients
 
 - [ ] 1 cup blueberries
 - [ ] 2 tbsps sugar (adjust to taste)
-- [ ] 1-1/2 tsp lemon juice
+- [ ] 1 1/2 tsp lemon juice
 - [ ] 1/2 tsp vanilla extract (optional)
 
 #### Method
@@ -141,13 +145,15 @@ Refer to the [Cinnamon Roll](#cinnamon-roll) recipe. Add [Blueberry Compote](#bl
 
 Refer to the [Cinnamon Roll](#cinnamon-roll) recipe. Alternate adding a half portion of [Strawberry Compote](#strawberry-compote) and a half portion of [Blueberry Compote](#blueberry-compote) to the Filling in a striped pattern. Proceed with the rest of the recipe as usual.
 
+<!-- TAG: spread -->
+
 ## Apple Compote
 
 #### Ingredients
 
 - [ ] 2 cups peeled, cored, and diced apples (such as Granny Smith or Honeycrisp)
 - [ ] 2 tbsps sugar (adjust to taste)
-- [ ] 1-1/2 tsp lemon juice
+- [ ] 1 1/2 tsp lemon juice
 - [ ] 1/4 tsp ground cinnamon
 - [ ] 1/8 tsp ground nutmeg
 - [ ] 1/2 tsp vanilla extract (optional)
