@@ -2,6 +2,10 @@
 <!-- TODO: Add vegan, vegetarian, gluten free tags to all applicable recipes -->
 <!-- TODO: Add GitHub Action to check for regex: (\d+).?-.?(\d+).?(min|hr|hour|day) which targets phrases like "1-2 minutes" (because we prefer) "1 to 2 minutes" -->
 <!-- TODO: Add metric system measurements, Celcius, etc. -->
+<!-- TODO: Add "Stages" categories for "Untested", "Experimental", "Beta", 
+"Hardened/Released/Whatever" but with better names / descriptions so we don't 
+have to ask if a certain recipe is good or not. But that brings up another 
+point, should this be split by oral review as well? -->
 
 # My Recipes
 
