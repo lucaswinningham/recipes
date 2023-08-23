@@ -2,7 +2,7 @@
 
 #### Ingredients
 
-- [ ] 4 cups white granulated sugar
+- [ ] 4 cups sugar
 
 #### Method
 
