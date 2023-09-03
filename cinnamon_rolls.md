@@ -67,7 +67,7 @@
 2. Once the dough is rolled out, spread the Filling onto the dough all the way to the edges.
 3. Gently roll the dough up from the long end to form a log then cut into 12 equal pieces
 4. Place the rolls in a greased baking pan, leaving a little space between them. Cover and let them rise for another 30 minutes.
-5. Preheat the oven to 350°F (175°C). Bake the rolls for 20-25 minutes, until they're golden brown.
+5. Preheat the oven to 350°F (175°C). Bake the rolls for 15-20 minutes, until they're golden brown.
 6. While the rolls are baking, prepare the Icing.
 7. Once the cinnamon rolls are out of the oven, let them cool slightly before drizzling the cream cheese icing over them.
 8. Allow the rolls to cool for 5 minutes and serve to 8 to 10 people.
