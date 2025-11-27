@@ -39,8 +39,6 @@
 9. Rest **10–15 min** before serving.  
    Serves 15–20.
 
----
-
 ## **Notes**
 
 ### Ingredient Notes
@@ -74,8 +72,6 @@
 
 ### Optional Finishing Touch
 - Light brown-sugar crust on top (1–2 tsp + pinch of rub) creates a subtle caramel edge that improves presentation and depth.
-
----
 
 ## **References**
 
