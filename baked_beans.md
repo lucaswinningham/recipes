@@ -4,7 +4,7 @@
 <!-- TAG: side -->
 <!-- TAG: potluck -->
 
-# Baked Beans (Improved)
+# Baked Beans
 
 #### Ingredients
 
