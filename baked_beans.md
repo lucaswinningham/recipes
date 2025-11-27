@@ -6,8 +6,6 @@
 
 # Baked Beans
 
----
-
 ### Ingredients
 - 3 cans (1 lb 12 oz) Bush’s Brown Sugar Hickory baked beans  
 - 2 tbsp butter  
